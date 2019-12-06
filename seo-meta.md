@@ -34,7 +34,7 @@ Ist das Plugin installiert, reicht das Eintippen einer URL beziehungsweise der B
 
 ## Title
 
-Betrachtet man die Information beim Punkt <em>Title</em>, so wird einem angezeigt, dass die Angabe von „FH Joanneum“ zwar dass Mindestkriterium erfüllt, dass ein Titel vorhanden ist, dass dieser aber mit 11 Characters zu kurz gewählt wurde. Lässt man als Vergleich die Seite <www.derstandard.at > analysieren, so sieht man, dass der Titel dort mit 52 Charakters die richtige Länge hat (und  in diesem Fall auch die richtige Information bietet). Bei einem Klick auf das Fragezeichen-Symbol werden Details angezeigt, welche die Anforderungen an den Titel noch stärker verdeutlichen (zu den Anforderungen an den Title siehe @googleAussagekraeftigeTitelUnd2019). So steht hier beispielsweise Folgendes:
+Betrachtet man die Information beim Punkt <em>Title</em>, so wird einem angezeigt, dass die Angabe von „FH Joanneum“ zwar dass Mindestkriterium erfüllt, dass ein Titel vorhanden ist, dass dieser aber mit 11 Characters zu kurz gewählt wurde. Lässt man als Vergleich die Seite <www.derstandard.at > analysieren, so sieht man, dass der Titel dort mit 52 Charakters die richtige Länge hat (und  in diesem Fall auch die richtige Information bietet). Bei einem Klick auf das Fragezeichen-Symbol werden Details angezeigt, welche die Anforderungen an den Titel noch stärker verdeutlichen [zu den Anforderungen an den Title siehe @googleAussagekraeftigeTitelUnd2019]. So steht hier beispielsweise Folgendes:
 
 > Defines a title for:
 >
@@ -47,7 +47,7 @@ Betrachtet man die Information beim Punkt <em>Title</em>, so wird einem angezeig
 
 ## Description
 
-Die sogenannte <em>Meta Description</em> ist eine kurze und präzise Zusammenfassung des Seiteninhalts im Kopf der Seite, welche nicht im Browserfenster dargestellt wird, aber von der Suchmaschine für die Darstellung der Suchergebnisse in den <em>Snippets</em> (siehe auch dazu @googleAussagekraeftigeTitelUnd2019 und allgemein zum Element `meta` @selfhtml-wikiHTMLKopfdatenMeta2019) genutzt werden kann. Wichtig bei der Erstellung der <em>Meta Description</em> ist in erster Linie, dass schnell erkennbar ist, worum es in der Seite geht. Dazu sollten wichtige Keywords am Anfang stehen. Die <em>Meta Description</em> kann darüber entscheiden, ob jemand von einem Suchergebnis weiterklickt oder nicht.
+Die sogenannte <em>Meta Description</em> ist eine kurze und präzise Zusammenfassung des Seiteninhalts im Kopf der Seite, welche nicht im Browserfenster dargestellt wird, aber von der Suchmaschine für die Darstellung der Suchergebnisse in den <em>Snippets</em> [siehe auch dazu @googleAussagekraeftigeTitelUnd2019 und @selfhtml-wikiHTMLKopfdatenMeta2019] genutzt werden kann. Wichtig bei der Erstellung der <em>Meta Description</em> ist in erster Linie, dass schnell erkennbar ist, worum es in der Seite geht. Dazu sollten wichtige Keywords am Anfang stehen. Die <em>Meta Description</em> kann darüber entscheiden, ob jemand von einem Suchergebnis weiterklickt oder nicht.
 
 ### Beispiel: Auszug Meta Description „FH Joanneum“
 
@@ -58,19 +58,18 @@ Die sogenannte <em>Meta Description</em> ist eine kurze und präzise Zusammenfas
 
 ## Keywords – zusätzlich zur Meta Description
 
-Keywords im Element`meta` im `head` einer Seite sind nicht mehr relevant [@selfhtml-wikiHTMLKopfdatenMeta2019], wohingegen themenspezifische Keywords im Inhalt der Website immer wichtiger werden.
+Keywords im Element`meta` im `head` einer Seite sind nicht mehr relevant [siehe @selfhtml-wikiHTMLKopfdatenMeta2019], wohingegen themenspezifische Keywords im Inhalt der Website immer wichtiger werden.
 
 ## URL und Canonical – zur Vermeidung von Duplicate Content
 
-Wichtig ist hier vor allem die Angabe einer kanonischen URL [googeDoppelteURLsZusammenfassen2019] für die Seite. Kanonische URLs, oft einfach <em>canonicals</em> genannt, werden eingesetzt um „Duplicate Content“ zu vermeiden, sprich um bei mehrfach verwendetem Inhalt die Originalressource auszuweisen, die Google als Suchergebnis verwendet.
+Wichtig ist hier vor allem die Angabe einer kanonischen URL für die Seite [siehe dazu @googleDoppelteURLsZusammenfassen2019]. Kanonische URLs, oft einfach <em>canonicals</em> genannt, werden eingesetzt um „Duplicate Content“ zu vermeiden, sprich um bei mehrfach verwendetem Inhalt die Originalressource auszuweisen, die Google als Suchergebnis verwendet.
 
 ## `robots`-Tag – für Indexierung bei Suchmaschinen
 
-Mit dem Inhalt des `robots`-Tag (`index` oder `no-index`) können Webseiten-Eigentümer bestimmen, ob Suchmaschinen die Seite zu indexieren sollen oder nicht. Technische Zudem wird in weiterer Folge u.a. festgelegt, ob eine Suchmaschine Links auf der Seite folgen darf oder nicht (`follow` / `no-follow`. Diese Informationen werden grundsätzlich im „Head“ einer HTML-Seite hinzugefügt. Einzelheiten findet man bei [@googleSpezifikationenFurRobotsMetaTags2019]. Nach dem aktuellen und umfangreichen Google-Update im Oktober 2019 gibt es für die Inhalte der Robots-Meta-Tags neue Optionen (Quelle: https://www.search-one.de/neue-meta-tags-snippets/):
+Mit dem Inhalt des `robots`-Tag (`index` oder `no-index`) können Webseiten-Eigentümer bestimmen, ob Suchmaschinen die Seite indexieren sollen oder nicht. Technische Zudem wird in weiterer Folge u.a. festgelegt, ob eine Suchmaschine Links auf der Seite folgen darf oder nicht (`follow` / `no-follow`). Diese Informationen werden grundsätzlich im „Head“ einer HTML-Seite hinzugefügt. [Einzelheiten findet man bei @googleSpezifikationenFurRobotsMetaTags2019]. Nach dem aktuellen und umfangreichen Google-Update im Oktober 2019 gibt es für die Inhalte der Robots-Meta-Tags neue Optionen [siehe @spriestersbachGoogleFuehrtNeue2019]:
 <dl>
 <dt><code>nosnippet</code></dt>
 <dd>Dies ist eine bereits bestehende Option, mit der man festlegen kann, dass kein Textausschnitt für die jeweilige URL angezeigt wird.</dd>
-<dl>
 <dt><code>max-snippet:[number]</code></dt>
 <dd>Hiermit lässt sich angeben, wie lang der Text für ein Snippet maximal sein soll. Durch eine solche Angabe kann z.B. ein Zeitungsverlag verhindern, dass Inhalte auf der Such-Ergebnisseite angezeigt werden.</dd>
 <dt><code>max-video-preview:[number]</code></dt>
@@ -115,7 +114,7 @@ Ebenso wie bei den Bildern und Überschriften, gibt SEO META 1 CLICK auch hier e
 
 SEO META 1 CLICK eignet sich perfekt als schnelles Analyse-Tool, welches direkt beim Besuch der Website und beim „Durchklicken“ angewendet werden kann. Es informiert über einige der für Suche und Suchmaschinenoptimierung wichtigsten Eigenschaften einer Seite. Vor allem erschließt es Informationen im Header und im Markup, die man sonst mühsam im Quelltext suchen müsste. Man erfährt mit einem Klick viel über das Optimierungs-Potenzial einer Seite.
 
-(Außer den Hinweisen bei den einzelnen Elementen hilfreich: @[googleStartleitfadenZurSuchmaschinenoptimierung2019])
+[Außer den Hinweisen bei den einzelnen Elementen hilfreich: @googleStartleitfadenZurSuchmaschinenoptimierung2019.]
 
 ---
 
@@ -123,15 +122,12 @@ Dieser Artikel ist eine eine offene Lernressource des [Studiengangs Content Stra
 
 <section class="oer-info">
 <dl>
-<dt>URL</dt><dd></dd>
-
+<dt>URL:</dt><dd>https://oer.fh-joanneum.at/contentstrategy/seo-meta-in-1-click-die-google-chrome-extension-fur-eine-schnelle-seo-analyse/</dd>
 <dt>Version:</dt><dd>1.0</dd>
 <dt>Autor:</dt><dd> Markus Fritz</dd>
 <dt>Lehrveranstaltung:</dt><dd>Schreiben für das Web</dd>
 <dt>Letzte Aktualisierung:</dt><dd>2019-12-06</dd>
-<dt>Rechte:</dt><dd></dd>
-
-
+<dt>Rechte:</dt><dd><a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons Lizenzvertrag" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />Dieses Werk ist lizenziert unter einer <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung 4.0 International Lizenz</a>.</dd>
 </dl>
 </section>
 
