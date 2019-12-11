@@ -92,7 +92,7 @@ Hier wird übersichtlich dargestellt, welche Headlines  verwendet werden und wie
 
 ![Überblick über die Header in SEO Meta 1 Click](https://oer.fh-joanneum.at/contentstrategy/wp-content/uploads/2016/07/seo-meta-1-click-headers.jpg "Überblick über die Header in SEO Meta 1 Click")
 
-Klickt man auf *Headers*, werden detailliert alle Headlines des Dokuments gezeigt. Die Elemente für Überschriften (`h6`-`h6`) dienen im HTML-Code dazu, den Inhalt einer Seite hierarchisch zu strukturieren. Wie diese Struktur auf dem Bildschirm präsentiert wird, wird mit CSS festgelegt. Die Header-Struktur beeinflusst die Indexierung der Website und hilft den Suchmaschinen die Seite zu „lesen“. Headlines werden durch das SEO Meta 1 Click Plugin wie folgt aufgelistet:
+Klickt man auf *Headers*, werden detailliert alle Headlines des Dokuments gezeigt. Die Elemente für Überschriften (`h1`-`h6`) dienen im HTML-Code dazu, den Inhalt einer Seite hierarchisch zu strukturieren. Wie diese Struktur auf dem Bildschirm präsentiert wird, wird mit CSS festgelegt. Die Header-Struktur beeinflusst die Indexierung der Website und hilft den Suchmaschinen die Seite zu „lesen“. Headlines werden durch das SEO Meta 1 Click Plugin wie folgt aufgelistet:
 
 ![Übersicht über die Header in SEO Meta 1 Click](https://oer.fh-joanneum.at/contentstrategy/wp-content/uploads/2016/07/seo-meta-1-click-show-headers.jpg "Übersicht über die Header in SEO Meta 1 Click")
 
@@ -125,7 +125,7 @@ Dieser Artikel ist eine eine offene Lernressource des [Studiengangs Content Stra
 <dt>URL:</dt><dd>https://oer.fh-joanneum.at/contentstrategy/seo-meta-in-1-click-die-google-chrome-extension-fur-eine-schnelle-seo-analyse/</dd>
 <dt>Version:</dt><dd>1.0</dd>
 <dt>Autor:</dt><dd> Markus Fritz</dd>
-<dt>Lehrveranstaltung:</dt><dd>Schreiben für das Web</dd>
+<dt>Lehrveranstaltung:</dt><dd>Schreiben, Redigieren und Kuratieren im Web</dd>
 <dt>Letzte Aktualisierung:</dt><dd>2019-12-06</dd>
 <dt>Rechte:</dt><dd><a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons Lizenzvertrag" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />Dieses Werk ist lizenziert unter einer <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Namensnennung 4.0 International Lizenz</a>.</dd>
 </dl>
