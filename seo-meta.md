@@ -63,10 +63,8 @@ Characters zu kurz gewählt wurde. Lässt man als Vergleich die Seite
 mit 52 Charakters die richtige Länge hat (und in diesem Fall auch die
 richtige Information bietet). Bei einem Klick auf das
 Fragezeichen-Symbol werden Details angezeigt, welche die Anforderungen
-an den Titel noch stärker verdeutlichen [(zu den Anforderungen an den
-Title siehe Google,
-[2019](#ref-googleAussagekraeftigeTitelUnd2019)[a](#ref-googleAussagekraeftigeTitelUnd2019))]{.citation
-data-cites="googleAussagekraeftigeTitelUnd2019"}. So steht hier
+an den Titel noch stärker verdeutlichen [zu den Anforderungen an den
+Title siehe @googleAussagekraeftigeTitelUnd2019]. So steht hier
 beispielsweise Folgendes:
 
 > Defines a title for:
@@ -85,12 +83,8 @@ Description
 Die sogenannte *Meta Description* ist eine kurze und präzise
 Zusammenfassung des Seiteninhalts im Kopf der Seite, welche nicht im
 Browserfenster dargestellt wird, aber von der Suchmaschine für die
-Darstellung der Suchergebnisse in den *Snippets* [(siehe auch dazu
-Google,
-[2019](#ref-googleAussagekraeftigeTitelUnd2019)[a](#ref-googleAussagekraeftigeTitelUnd2019)
-und [\@selfhtml-wikiHTMLKopfdatenMeta2019]{.citation
-data-cites="selfhtml-wikiHTMLKopfdatenMeta2019"})]{.citation
-data-cites="googleAussagekraeftigeTitelUnd2019"} genutzt werden kann.
+Darstellung der Suchergebnisse in den *Snippets* [siehe auch dazu
+@googleAussagekraeftigeTitelUnd2019 und @selfhtml-wikiHTMLKopfdatenMeta2019] genutzt werden kann.
 Wichtig bei der Erstellung der *Meta Description* ist in erster Linie,
 dass schnell erkennbar ist, worum es in der Seite geht. Dazu sollten
 wichtige Keywords am Anfang stehen. Die *Meta Description* kann darüber
@@ -112,18 +106,14 @@ Keywords -- zusätzlich zur Meta Description
 -------------------------------------------
 
 Keywords im Element`meta` im `head` einer Seite sind nicht mehr relevant
-[(siehe SelfHTML-Wiki,
-[2019](#ref-selfhtml-wikiHTMLKopfdatenMeta2019))]{.citation
-data-cites="selfhtml-wikiHTMLKopfdatenMeta2019"}, wohingegen
+[siehe @selfhtml-wikiHTMLKopfdatenMeta2019], wohingegen
 themenspezifische Keywords im Inhalt der Website immer wichtiger werden.
 
 URL und Canonical -- zur Vermeidung von Duplicate Content
 ---------------------------------------------------------
 
 Wichtig ist hier vor allem die Angabe einer kanonischen URL für die
-Seite [(siehe dazu Google,
-[2019](#ref-googleDoppelteURLsZusammenfassen2019)[c](#ref-googleDoppelteURLsZusammenfassen2019))]{.citation
-data-cites="googleDoppelteURLsZusammenfassen2019"}. Kanonische URLs, oft
+Seite [@googleDoppelteURLsZusammenfassen2019]. Kanonische URLs, oft
 einfach *canonicals* genannt, werden eingesetzt um „Duplicate Content"
 zu vermeiden, sprich um bei mehrfach verwendetem Inhalt die
 Originalressource auszuweisen, die Google als Suchergebnis verwendet.
@@ -136,14 +126,9 @@ Webseiten-Eigentümer bestimmen, ob Suchmaschinen die Seite indexieren
 sollen oder nicht. Technische Zudem wird in weiterer Folge u.a.
 festgelegt, ob eine Suchmaschine Links auf der Seite folgen darf oder
 nicht (`follow` / `no-follow`). Diese Informationen werden grundsätzlich
-im „Head" einer HTML-Seite hinzugefügt. [(Einzelheiten findet man bei
-Google,
-[2019](#ref-googleSpezifikationenFurRobotsMetaTags2019)[e](#ref-googleSpezifikationenFurRobotsMetaTags2019))]{.citation
-data-cites="googleSpezifikationenFurRobotsMetaTags2019"}. Nach dem
+im „Head" einer HTML-Seite hinzugefügt. [@googleSpezifikationenFurRobotsMetaTags2019]. Nach dem
 aktuellen und umfangreichen Google-Update im Oktober 2019 gibt es für
-die Inhalte der Robots-Meta-Tags neue Optionen [(siehe Spriestersbach,
-[2019](#ref-spriestersbachGoogleFuehrtNeue2019))]{.citation
-data-cites="spriestersbachGoogleFuehrtNeue2019"}:
+die Inhalte der Robots-Meta-Tags neue Optionen [siehe @spriestersbachGoogleFuehrtNeue2019]:
 
  `nosnippet`
 :   Dies ist eine bereits bestehende Option, mit der man festlegen kann,
@@ -177,9 +162,7 @@ SEO Meta 1 Click zeigt hier an, welche Sprache im `head` angegeben ist.
 Aus dieser Angabe kann eine Suchmaschine entnehmen, ob es sinnvoll ist,
 eine Seite für UserInnen und User mit einer bestimmten Sprache
 anzuzeigen. Deshalb ist die Sprachangabe für die Optimierung einer Seite
-wichtig. Siehe dazu [Google
-([2019](#ref-googleGoogleUeberLokalisierte2019)[d](#ref-googleGoogleUeberLokalisierte2019))]{.citation
-data-cites="googleGoogleUeberLokalisierte2019"}.
+wichtig [siehe dazu @googleGoogleUeberLokalisierte2019].
 
 Überschriften -- die Hierarchie der Inhalte
 -------------------------------------------
@@ -210,9 +193,7 @@ das `title`- und das `alt`-Attribut. Diese sind wie auch schon die
 Header, für die Indexierung durch die Suchmaschine und auch für die
 Barrierefreiheit wichtig. Die „Suche" bei Google konzentriert sich
 nämlich nicht nur auf die Suche von passenden Websites sondern eben auch
-auf Bilder; gute einführende Informationen dazu erhält man durch [Google
-([2019](#ref-googleBestPracticesFuer2019)[b](#ref-googleBestPracticesFuer2019))]{.citation
-data-cites="googleBestPracticesFuer2019"}. Mit dem richtigen `title`-
+auf Bilder; gute einführende Informationen dazu erhält man durch @googleBestPracticesFuer2019. Mit dem richtigen `title`-
 und `alt`-Attribut können Unternehmen daher auch in der Bilder-Suche
 gefunden werden. Vielleicht noch wichtiger ist, dass diese Angaben die
 Qualität der Seite insgesamt verbessern und damit zu einem besseren
@@ -249,9 +230,7 @@ allem erschließt es Informationen im Header und im Markup, die man sonst
 mühsam im Quelltext suchen müsste. Man erfährt mit einem Klick viel über
 das Optimierungs-Potenzial einer Seite.
 
-[(Außer den Hinweisen bei den einzelnen Elementen hilfreich: Google,
-[2019](#ref-googleStartleitfadenZurSuchmaschinenoptimierung2019)[f](#ref-googleStartleitfadenZurSuchmaschinenoptimierung2019).)]{.citation
-data-cites="googleStartleitfadenZurSuchmaschinenoptimierung2019"}
+[Außer den Hinweisen bei den einzelnen Elementen hilfreich: @googleStartleitfadenZurSuchmaschinenoptimierung2019]
 
 ------------------------------------------------------------------------
 
