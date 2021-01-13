@@ -4,7 +4,7 @@
 28 October 2020
 
 
-**Topic:** Roles of content strategists
+**Topic:** Content strategy roles
 
 ---
 
@@ -85,6 +85,14 @@ Content Operations is a set of principles that results in methodologies intended
 Content Operations influence and, in turn, are dependent on content management. Content management is comprised of several different topics, from domain models to content flows and types, to accessibility and inclusive design. The purpose of these topics is to help map the different content types and domains that the project needs, so that content can be optimized to be used across different channels and types while still being true to the context it is meant for. Content management includes the creation of content models and flows, to ensure that different forms of content can be aggregated and combined in a way that enables automated content processing, meets user needs and expectations and allows predictable delivery of content in sophisticated ways.
 
 Let's be honest: Were you aware of how crucial the role of a consultant is for a content strategist? If not, you're like so many who are just venturing into the field of content strategy. And if this article did not reveal anything new for you, you are either an experienced content strategist, a lecturer at the FH Joanneum Graz or simply a genius. In this case, however, it is certainly never wrong to recall the content of this article from time to time.
+
+---
+**Literature:**
+
+Bailie, R. A., & Urbina, N. (2012). Content Strategy: Connecting the Dots Between Business, Brand, and Benefits. XML Press.
+
+Bailie, R. A. (2018, February 27). Why content strategists are the doctors of the content world. FH JOANNEUM. https://www.fh-joanneum.at/en/blog/why-content-strategists-are-the-doctors-of-the-content-world/
+
 
 ---
 **Caveat (type: before authorization):**
