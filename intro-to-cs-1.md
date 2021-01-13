@@ -6,9 +6,15 @@
 
 **Topic:** Roles of content strategists
 
+---
+
 **Teaser:**  What is a *content strategist*? In practice and literature, this role is understood in many different and often conflicting ways. In her introductory lecture, [Rahel Bailie][rahelbailie] explained, why she understands content strategists as business consultants specialized in content.
 
-**Context:** The tasks of content strategists are not as clearly defined as those of other professions and roles in digital business. This makes it difficult for freelance content strategists to describe what services they provide, and it makes content strategists who work in-house the go-to girl for everything on content-related tasks that no one else wants to play. To be a successful in the profession, it's important to clearly define the role of the content strategist. Rahel Bailie therefore clearly distinguished the role of content strategists from other roles at the very beginning of her introduction to content strategy and compared it to a similar role, that of business consultant.
+---
+
+**Context:** The tasks of content strategists are not as clearly defined as those of other professions and roles in digital business. This makes it difficult for freelance content strategists to describe what services they provide, and it makes content strategists who work in-house the go-to girl for everything on content-related tasks that no one else wants to play. To be a successful in the profession, it's important to clearly define the role of the content strategist. Rahel Bailie therefore clearly distinguished the role of content strategists from other roles at the very beginning of her introduction to content strategy, comparing it to a similar role, that of business consultant.
+
+---
 
 **Picture**
 ![](https://oer.putyourlightson.dev/assets/images/_banner/content-strategist_business-consultant_stonks.jpg)
@@ -16,7 +22,9 @@
 **Caption:**
 STONKS! Just like the woman in this licence-free picture we found on the internet, a content strategist must convince business that a change in strategy will bring an increase in revenue and other desirable things. The only difference is, that a content strategist will need more than a chart with an arrow pointing upwards.
 
+---
 
+**Description:**
 
 “Developing relationships, delivering results.” – these are the core missions of a consultant. But it’s about more than just the relationship between the consultant and the business. It’s about identifying connections between the business’ strengths, weaknesses and goals to achieve the desired future with the help of the consultant’s expertise. And that’s also the core mission of a content strategist. Content strategy means combining a business’ lifecycles concerning customers, products and content. These lifecycles and their sub-activities are interdependent, whereby decision making is just successful by considering one another. It’s about planning acquisition activities such as content marketing, social media marketing or direct marketing campaigns to attract new clients. It’s about maintaining clients by using content for customer support, training and knowledge base. And it’s about the management and governance of content.
 
