@@ -42,7 +42,7 @@ Companies that see dealing with content as a necessary evil are usually not awar
 
 ## A four-step methodology to a successful content strategy
 
-Every project starts with a dialogue between business and the content strategist. More precisely, it starts with the question “What are you doing now now?” This marks the start of the discovery-part, the first phase of a four-step methodology towards a successful content strategy. The goal is to determine a status quo and see, where you have to put your finger on to achieve future goals. The second part is about analyzing the gap between your current state and the goal you wish to achieve. A gap analysis is about defining what remains to be done to reach the future state. Part three is all about creating recommendations by using the so-called “MoSCoW” model, where you define the musts, shoulds, coulds and woulds of your strategy. As soon as that is done, the fourth and last part is in line: Creating a road map that guides the client from the current state to the future one. Having these steps in mind and putting it in practice is a big help to work in  more structured and purposeful way.
+Every project starts with a dialogue between business and the content strategist. More precisely, it starts with the question “What are you doing now now?” This marks the start of the discovery-part, the first phase of a four-step methodology towards a successful content strategy. The goal is to determine a status quo and see, where you have to put your finger on to achieve future goals. The second part is about analyzing the gap between your current state and the goal you wish to achieve. A gap analysis is about defining what remains to be done to reach the future state. Part three is all about creating recommendations by using the so-called “MoSCoW” model[^1], where you define the musts, shoulds, coulds and woulds of your strategy. As soon as that is done, the fourth and last part is in line: Creating a road map that guides the client from the current state to the future one. Having these steps in mind and putting it in practice is a big help to work in  more structured and purposeful way.
 
 ## Deliverables and Project Phases 
 
@@ -87,6 +87,12 @@ Content Operations influence and, in turn, are dependent on content management. 
 Let's be honest: Were you aware of how crucial the role of a consultant is for a content strategist? If not, you're like so many who are just venturing into the field of content strategy. And if this article did not reveal anything new for you, you are either an experienced content strategist, a lecturer at the FH Joanneum Graz or simply a genius. In this case, however, it is certainly never wrong to recall the content of this article from time to time.
 
 ---
+**References:**
+
+[^1]: International Institute of Business Analysis. (2009). A guide to the business analysis body of knowlwdge (babok guide). IIBA.
+
+
+
 **Literature:**
 
 Bailie, R. A., & Urbina, N. (2012). Content Strategy: Connecting the Dots Between Business, Brand, and Benefits. XML Press.
