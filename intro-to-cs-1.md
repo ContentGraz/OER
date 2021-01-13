@@ -1,8 +1,14 @@
 
-The content strategist as a business consultant
+# The content strategist as a business consultant
+
 
 28 October 2020
+
+![](https://oer.putyourlightson.dev/assets/images/_banner/content-strategist_business-consultant_stonks.jpg)
+
 STONKS! Just like the woman in this licence-free picture we found on the internet, a content strategist must convince businesses that a change in strategy will bring an increase of revenue and other desirable things. The only difference is, that a content strategist will need more than a chart with an arrow pointing upwards.
+
+What is a *content strategist*? In practice and in literature this role is understood in many different and often conflicting ways. In her introductory lecture, [Rahel Bailie][rahelbailie] explained, why she understands content strategists as business consultants specialized in content.
 
 “Developing relationships, delivering results.” – these are the core missions of a consultant. But it’s about more than just the relationship between the consultant and the business. It’s about identifying connections between the business’ strengths, weaknesses and goals to achieve a desired future with the help of the consultant’s expertise. And that’s also the core mission of a content strategist. Content strategy means combining a business’ lifecycles concerning customers, products and content. These lifecycles and their sub-activities are interdependent, whereby decision making is just successful by considering one another. It’s about planning acquisition activities such as content marketing, social media marketing or direct marketing campaigns to attract new customers. It’s about maintaining customers by using content for customer support, training and knowledge base. And it’s about the management and governance of content.
 
@@ -56,3 +62,5 @@ Content Operations is a set of principles that results in methodologies intended
 Content Operations influence and, in turn, are dependent on content management. Content management is comprised of several different topics, from domain models to content flows and types, to accessibility and inclusivity. The purpose of these topics is to help map the different content types and domains that the project needs, so that content can be optimized to be used across different channels and types while still being true to the context it is meant for. Content management includes the creation of content models and flows, to ensure that different forms of content can be aggregated and combined in a way that enables automated content processing, meets user needs and expectations and allows predictable delivery of content in sophisticated ways.
 
 Let's be honest: Were you aware of how important the role of a consultant is for a content strategist? If not, you're like so many who are just venturing into the field of content strategy. And if this article did not reveal anything new for you, you are either an experienced content strategist, a lecturer at the FH Joanneum Graz or simply a genius. In this case, however, it is certainly never wrong to recall the content of this article from time to time.
+
+[rahelbailie]: https://www.fh-joanneum.at/hochschule/person/rahel-anne-bailie/
