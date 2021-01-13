@@ -26,7 +26,7 @@ STONKS! Just like the woman in this licence-free picture we found on the interne
 
 **Description:**
 
-“Developing relationships, delivering results.” – these are the core missions of a consultant. But it’s about more than just the relationship between the consultant and the business. It’s about identifying connections between the business’ strengths, weaknesses and goals to achieve the desired future with the help of the consultant’s expertise. And that’s also the core mission of a content strategist. Content strategy means combining a business’ lifecycles concerning customers, products and content. These lifecycles and their sub-activities are interdependent, whereby decision making is just successful by considering one another. It’s about planning acquisition activities such as content marketing, social media marketing or direct marketing campaigns to attract new clients. It’s about maintaining clients by using content for customer support, training and knowledge base. And it’s about the management and governance of content.
+“Developing relationships, delivering results.” – these are the core missions of a consultant. But it’s about more than just the relationship between the consultant and the business. It’s about identifying connections between the business’ strengths, weaknesses and goals to achieve the desired future with the help of the consultant’s expertise. "The point is that business consultants are supposed to improve businesses: they are not hired to maintain the status quo but to change it."[^1] And that’s also the core mission of a content strategist. Content strategy means combining a business’ lifecycles concerning customers, products and content. These lifecycles and their sub-activities are interdependent, whereby decision making is just successful by considering one another. It’s about planning *acquisition activities* such as content marketing, social media marketing or direct marketing campaigns to attract new clients. It’s about *maintaining clients* by using content for customer support, training and knowledge base. And it’s about the *management and governance* of content.
 
 All in all, Content Strategy can be seen as the umbrella strategy that includes every internal and external factor, which affects the business.
 
@@ -42,13 +42,13 @@ Companies that see dealing with content as a necessary evil are usually not awar
 
 ## A four-step methodology to a successful content strategy
 
-Every project starts with a dialogue between business and the content strategist. More precisely, it starts with the question “What are you doing now now?” This marks the start of the discovery-part, the first phase of a four-step methodology towards a successful content strategy. The goal is to determine a status quo and see, where you have to put your finger on to achieve future goals. The second part is about analyzing the gap between your current state and the goal you wish to achieve. A gap analysis is about defining what remains to be done to reach the future state. Part three is all about creating recommendations by using the so-called “MoSCoW” model[^1], where you define the musts, shoulds, coulds and woulds of your strategy. As soon as that is done, the fourth and last part is in line: Creating a road map that guides the client from the current state to the future one. Having these steps in mind and putting it in practice is a big help to work in  more structured and purposeful way.
+Every project starts with a dialogue between business and the content strategist. More precisely, it starts with the question “What are you doing now now?” This marks the start of the *discovery-part*, the first phase of a four-step methodology towards a successful content strategy. The goal is to determine a status quo and see, where you have to put your finger on to achieve future goals. The second part is about analyzing the gap between your current state and the goal you wish to achieve. A *gap analysis* is about defining what remains to be done to reach the future state. Part three is all about *creating recommendations* by using the so-called “MoSCoW” model[^2], where you define the musts, shoulds, coulds and woulds of your strategy. As soon as that is done, the fourth and last part is in line: Creating a *road map that guides the client from the current state to the future one*. Having these steps in mind and putting it into practice is a big help to work in a structured and purposeful way.
 
 ## Deliverables and Project Phases 
 
 There are diverse types of projects a content strategist can be tasked to complete. These vary in complexity and can be grouped into:
 
-* Core Projects: Usually have to do with existing markets and processes. They are single language projects deployed on a few channels and have no technical requirements.
+* Core Projects: Usually they have to do with existing markets and processes. They are single language projects deployed on a few channels and have no technical requirements.
 * Complex Projects: These involve multiple markets and languages, new channels and delivery needs, but do not require new technology.
 * Technical Projects: These might involve migrations, new feature or system implementations or add-ons to the other forms of project.
 
@@ -69,11 +69,11 @@ When thinking about a website, most people will think about the marketing conten
 
 A content strategy is only useful when it is implemented. To create a content strategy is to design a repeatable system, this system is meant to support content operations in their deployment and iterations and should keep into account the main themes of operational models which generally consist in reducing inefficiencies, automating processes, enabling scaling up, monitoring and creating insights, and iterating again (explicit themes) and improving collaboration, automation, innovation and reducing risk (implicit themes). A useful metaphor for a content strategy is the construction of a home. Before the house can be lived in and “operated”, it has to be built, and before that, it must be planned and designed.
 
-Content strategy deployment works similarly, with the strategy phase taking anywhere between 3-12 months, the implementation phase 6-24 months, and the operations phase many years. These phases closely match the planning, building and living phases of a house.
+Content strategy deployment works similarly, with the strategy phase taking usually between 3-12 months, the implementation phase 6-24 months, and the operations phase many years. These phases closely match the planning, building and living phases of a house.
 
-## The bridge between content operation and content management 
+## Content operations: The bridge between content strategy and content management 
 
-Content Operations is a set of principles that results in methodologies intended to optimise production of content, and allow organisations to scale their operations, while ensuring high quality in a continuous delivery pipeline, to allow for the leveraging of content as business assets to meet intended goals. To make this possible a series of elements is needed. These are:
+Content operations is a set of principles that results in methodologies intended to optimise production of content, and allow organisations to scale their operations, while ensuring high quality in a continuous delivery pipeline, to allow for the leveraging of content as business assets to meet intended goals. To make this possible a series of elements is needed. These are:
 
 * Categorization
 * Quality management
@@ -89,7 +89,12 @@ Let's be honest: Were you aware of how crucial the role of a consultant is for a
 ---
 **References:**
 
-[^1]: International Institute of Business Analysis. (2009). A guide to the business analysis body of knowlwdge (babok guide). IIBA.
+[^1]: Toppin, G., & Czerniawska, F. (2005). Business consulting: A guide to how it works and how to make it work. Profile.
+
+
+[^2]: International Institute of Business Analysis. (2009). A guide to the business analysis body of knowlwdge (babok guide). IIBA.
+
+
 
 
 
