@@ -1,14 +1,22 @@
 
 # The content strategist as a business consultant
 
-
 28 October 2020
 
+
+**Topic:** Roles of content strategists
+
+**Teaser:**  What is a *content strategist*? In practice and literature, this role is understood in many different and often conflicting ways. In her introductory lecture, [Rahel Bailie][rahelbailie] explained, why she understands content strategists as business consultants specialized in content.
+
+**Context:** The tasks of content strategists are not as clearly defined as those of other professions and roles in digital business. This makes it difficult for freelance content strategists to describe what services they provide, and it makes content strategists who work in-house the go-to girl for everything on content-related tasks that no one else wants to do. To be a successful in the profession, it's important to clearly define the role of the content strategist. Rahel Bailie therefore clearly distinguished the role of content strategists from other roles at the very beginning of her introduction to content strategy and compared it to a similar role, that of business consultant.
+
+**Picture**
 ![](https://oer.putyourlightson.dev/assets/images/_banner/content-strategist_business-consultant_stonks.jpg)
 
+**Caption:**
 STONKS! Just like the woman in this licence-free picture we found on the internet, a content strategist must convince businesses that a change in strategy will bring an increase in revenue and other desirable things. The only difference is, that a content strategist will need more than a chart with an arrow pointing upwards.
 
-What is a *content strategist*? In practice and literature, this role is understood in many different and often conflicting ways. In her introductory lecture, [Rahel Bailie][rahelbailie] explained, why she understands content strategists as business consultants specialized in content.
+
 
 “Developing relationships, delivering results.” – these are the core missions of a consultant. But it’s about more than just the relationship between the consultant and the business. It’s about identifying connections between the business’ strengths, weaknesses and goals to achieve the desired future with the help of the consultant’s expertise. And that’s also the core mission of a content strategist. Content strategy means combining a business’ lifecycles concerning customers, products and content. These lifecycles and their sub-activities are interdependent, whereby decision making is just successful by considering one another. It’s about planning acquisition activities such as content marketing, social media marketing or direct marketing campaigns to attract new customers. It’s about maintaining customers by using content for customer support, training and knowledge base. And it’s about the management and governance of content.
 
@@ -23,7 +31,8 @@ To put it in a nutshell, a content strategist is planning the doing to meet a bu
 ## Content as a business benefit
 
 Companies that see dealing with content as a necessary evil are usually not aware of the benefits that come with a good content strategy. Therefore, a content strategist has to point out business benefits that are enhanced by dealing with content appropriately. Such benefits would be the expansion into new markets through personalized content, building brand trust with more accurate, trustworthy content, managing risks with a better audit trail or increasing revenue. To make a client understand the whole spectrum of possibilities that come with a good content strategy, he/she has to realize that content is more than just a text on a website, it’s everything from design to pictures to metadata and so on. Until they get that state of mind, there’s a lot of consulting and guiding to be done.
-A four-step methodology to a successful content strategy #
+
+# A four-step methodology to a successful content strategy
 
 Every project starts with a dialogue between a business and the content strategist. More precisely, it starts with the question “What are you doing right now?” This marks the beginning of the discovery-part, the first phase of a four-step methodology towards a successful content strategy. The goal is to determine a status quo and see, where you have to put your finger on to achieve future goals. The second part is about analyzing the gap between your current state and the goal you want to achieve. A gap analysis is about defining what needs to be done to reach the future state. Part three is all about creating recommendations by using the so-called “MoSCoW” model, where you define the musts, shoulds, coulds and woulds of your strategy. As soon as that is done, the fourth and last part is in line: creating a road map that guides the client from the current state to the future one. Having these steps in mind and putting it into practice is a big help to work more structured and purposeful.
 
