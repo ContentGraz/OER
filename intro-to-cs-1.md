@@ -40,11 +40,11 @@ To put it in a nutshell, a content strategist is planning the doing to meet a bu
 
 Companies that see dealing with content as a necessary evil are usually not aware of the benefits that come with a good content strategy. Therefore, a content strategist has to point out business benefits that are enhanced by dealing with content appropriately. Such benefits would be the expansion into new markets through personalized content, building brand trust with more accurate, trustworthy content, managing risks with a better audit trail or increasing revenue. To make a client understand the whole spectrum of possibilities that come with a sound content strategy, he/she has to realize that content is more than just a text on a website, it’s everything from design to pictures to metadata and so on. Until they get that state of mind, there are a lot of consulting and guiding to be done.
 
-# A four-step methodology to a successful content strategy
+## A four-step methodology to a successful content strategy
 
 Every project starts with a dialogue between business and the content strategist. More precisely, it starts with the question “What are you doing now now?” This marks the start of the discovery-part, the first phase of a four-step methodology towards a successful content strategy. The goal is to determine a status quo and see, where you have to put your finger on to achieve future goals. The second part is about analyzing the gap between your current state and the goal you wish to achieve. A gap analysis is about defining what remains to be done to reach the future state. Part three is all about creating recommendations by using the so-called “MoSCoW” model, where you define the musts, shoulds, coulds and woulds of your strategy. As soon as that is done, the fourth and last part is in line: Creating a road map that guides the client from the current state to the future one. Having these steps in mind and putting it in practice is a big help to work in  more structured and purposeful way.
 
-# Deliverables and Project Phases 
+## Deliverables and Project Phases 
 
 There are diverse types of projects a content strategist can be tasked to complete. These vary in complexity and can be grouped into:
 
@@ -87,7 +87,7 @@ Content Operations influence and, in turn, are dependent on content management. 
 Let's be honest: Were you aware of how crucial the role of a consultant is for a content strategist? If not, you're like so many who are just venturing into the field of content strategy. And if this article did not reveal anything new for you, you are either an experienced content strategist, a lecturer at the FH Joanneum Graz or simply a genius. In this case, however, it is certainly never wrong to recall the content of this article from time to time.
 
 ---
-** Caveat (type: before authorization):**
+**Caveat (type: before authorization):**
 
 *This article is a student-written report on the content of a part of the course [Kickoff Workshop: What is Content Strategy?][kickoff-workshop] in the 1st semester of the [M.A. programs in content strategy][cos]. It reflects the understanding of the content from the students' point of view and may therefore contain interpretations that do not coincide with the views of the instructor.*
 
