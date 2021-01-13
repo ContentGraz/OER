@@ -86,4 +86,12 @@ Content Operations influence and, in turn, are dependent on content management. 
 
 Let's be honest: Were you aware of how crucial the role of a consultant is for a content strategist? If not, you're like so many who are just venturing into the field of content strategy. And if this article did not reveal anything new for you, you are either an experienced content strategist, a lecturer at the FH Joanneum Graz or simply a genius. In this case, however, it is certainly never wrong to recall the content of this article from time to time.
 
+---
+** Caveat (type: before authorization):**
+
+*This article is a student-written report on the content of a part of the course [Kickoff Workshop: What is Content Strategy?][kickoff-workshop] in the 1st semester of the [M.A. programs in content strategy][cos]. It reflects the understanding of the content from the students' point of view and may therefore contain interpretations that do not coincide with the views of the instructor.*
+
+---
 [rahelbailie]: https://www.fh-joanneum.at/hochschule/person/rahel-anne-bailie/
+[kickoff-workshop]: https://www.fh-joanneum.at/content-strategie-und-digitale-kommunikation/master/en/course/introduction-to-content-strategy/200778101-kickoff-workshop-what-is-content-strategy-2020/ws/2020/ "Kickoff Workshop: What is Content Strategy?"
+[cos]: https://www.fh-joanneum.at/content-strategie-und-digitale-kommunikation/master/en/programme/ "Content-Strategie / Content Strategy"
