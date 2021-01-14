@@ -2,6 +2,12 @@ Strategy is Dead. Long Lives Strategy.
 
 5 November 2020
 
+**Topic:**
+
+**Teaser:**
+
+**Context:**
+
 Read time: 7 minutes
 What exactly is strategy? Why do we need it? How do we create a successful business strategy? And why do some say strategy is dead?
 
@@ -88,3 +94,20 @@ Just kidding, there is so much more to know about successfully running a busines
 Regardless of your answer: If you are interested in these kind of topics, you should think about applying for the Master’s degree of Content Strategy at FH Joanneum, where you can hear about Business Strategy live, in person, from Dieter Rappold.
 
 …and if you already study Content Strategy: You just recapitulated a lecture you already heard - good for you! 
+
+**References:**
+
+**Literature:**
+
+
+---
+**Caveat (type: before authorization):**
+
+*This article is a student-written report on the content of a part of the course [Business Strategy for Digital Markets][business-strategy] in the 1st semester of the [M.A. programs in content strategy][cos]. It reflects the understanding of the content from the students' point of view and may therefore contain interpretations that do not coincide with the views of the instructor.*
+
+---
+
+[business-strategy]: https://www.fh-joanneum.at/content-strategie-und-digitale-kommunikation/master/en/course/digital-strategy/200778104-business-strategy-for-digital-markets-2020/ws/2020/ "Business Strategy for Digital Markets » Content-Strategie / Content Strategy"
+
+
+
