@@ -4,12 +4,17 @@ Strategy is Dead. Long Lives Strategy.
 
 **Topic:**
 
-**Teaser:**
+**Teaser:** What exactly is strategy? Why do we need it? How do we create a successful business strategy? And why do some say strategy is dead?
+Dieter Rappold explained, why and how business strategy has totally changed in the digital space. The new landscapes of digital business strategy are the playground for relevant content strategies. 
+
+---
 
 **Context:**
 
-Read time: 7 minutes
-What exactly is strategy? Why do we need it? How do we create a successful business strategy? And why do some say strategy is dead?
+Content strategy and business strategy are mutually dependent. Content strategies support business strategies, business in the digital space requires a strategic approach to all facets of content. For understanding the operating space of their discipline content strategists need to understand what business strategy means today. Dieter Rappold explained it with the perspective of a reflecting digital entrepreneur. 
+
+---
+
 
 Let’s talk about business. Have you ever asked yourself “Why the hack are they so damn successful?!” Here’s the answer: Cause they got a great strategy - and are even better at executing. Oh, wait, let me just add this by the way: Strategy is dead. But without a strategy no business will be successful. Okay, before you get even more confused let’s get started!
 What is a strategy? #
