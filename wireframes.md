@@ -2,13 +2,20 @@
 
 
 Following the process of a wireframe analysis, this lecture report touches on some of the basic questions, concepts and insights presented in Deane Barker’s class “Introduction to Content Management”.
-Question 1: What is a wireframe? #
+
+## Question 1: What is a wireframe?
 
 Wireframes show different elements on a screen visually and functionally and are demonstrating what is going to be built in a Content Management System (CMS). Due to their versatility, they can be used in different fields like designing or developing for different reasons. Mostly there is one wireframe built for each content type.
 
-Wireframes are not just arrangements of text and pictures, so-called screen mockups. They focus on what a screen does, not what it looks like. They are showing graphically what is going to be built in the CMS, so each party of a project will be on the same page and know what is going to be developed. A Content Management System is a software or an application that uses a database to manage and display all content and can be used when developing a website. Wireframes should also show different kinds of information like categories, content objects etc. (which we will come to later), that are displayed and show the functionality available.
+Wireframes are not just arrangements of text and pictures, so-called screen mockups. They focus on what a screen does, not what it looks like. They are showing graphically what is going to be built in the CMS, so each party of a project will be on the same page and know what is going to be developed. A Content Management System is a
 
-Different professions, different wireframe uses #
+> software system which automates the tasks around the management of content. A CMS assists editors in creating, organizing, controlling, securing, and ultimately delivering content. [@barkerWebContentManagement]
+
+<!-- Replaced the definition of CMS. They don't necessarily need a database. -->
+
+Wireframes should also show different kinds of information like categories, content objects etc. (which we will come to later), that are displayed and show the functionality available.
+
+## Different professions, different wireframe uses
 
 On the one hand, there are designers that use wireframes for the visual design of user interfaces. On the other hand, developers use them to understand functionalities and get an idea of the technical requirements needed. An analyst uses wireframes to show business rules for example. So wireframes are focusing on interaction and/or navigational paths and are helping to understand functionality and the user interface (the point of human-computer interaction and communication) of the end-product on the screen. http://myprojectanalysis.com/i...
 
@@ -17,11 +24,13 @@ There are some good examples for wireframes Deane Barker made, that can be easil
 
 – https://gadgetopia.com/post/8069/
 
-Usually there is one wireframe for each content type like text, image, video etc.
+Often the same wireframe type is used instances of the same content type (like e.g. blogpost, news article, web shop entry) U
 
-Question 2: What is a wireframe made of? #
+<!-- misunderstanding of content types. Was: Usually there is one wireframe for each content type like text, image, video etc. -->
 
-Basically a wireframe is made of the *Operative Content Object* and its surrounding that consists for example of a header, footer or sidebar (see a wireframe example image 1: yellow area (1) marks the Operative Content Object, green area (2) marks the surrounding).
+## Question 2: What is a wireframe made of? 
+
+Basically a wireframe is made of the [Operative Content Object](https://flyingsquirrelbook.com/glossary/term/operative-content-object/ "Term: 'Operative Content Object'") and its surrounding that consists for example of a header, footer or sidebar (see a wireframe example image 1: yellow area (1) marks the Operative Content Object, green area (2) marks the surrounding).
 
 Wireframe2 zones 01
 “Once you’ve designed the basic layout (wireframe; note) for your article, you can load up the sidebars with all sorts of fun stuff – related links, today’s weather, promotional widgets for all sorts of stuff, etc.”
