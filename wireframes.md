@@ -24,7 +24,7 @@ There are some good examples for wireframes Deane Barker made, that can be easil
 
 – https://gadgetopia.com/post/8069/
 
-Often the same wireframe type is used instances of the same content type (like e.g. blogpost, news article, web shop entry) U
+Often the same wireframe type is used instances of the same [content type](https://flyingsquirrelbook.com/glossary/term/content-type/ "Term: "Content Type"") (like e.g. blogpost, news article, web shop entry) U
 
 <!-- misunderstanding of content types. Was: Usually there is one wireframe for each content type like text, image, video etc. -->
 
