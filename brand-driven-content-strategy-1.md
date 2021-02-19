@@ -1,20 +1,28 @@
-# How a brand-driven content strategy makes brand values great again
+# What is brand driven content strategy all about? A lecture by Margot Bloomstein
 
-7 January 2021
 
-Read time: 10 minutes
+A brand-driven content strategy helps an organization to figure out its values and differentiators. It shapes the path for all future content decisions.
 
-<div class="leading-relaxed mb-8 italic text-xl">A brand-driven content strategy helps an organization to figure out its values and differentiators. It shapes the path for all future content decisions. Boston-based content strategist Margot Bloomstein taught her core principles in solving business challenges with content strategy. In her inimitable, always positive manner, she takes the students by the hand and teaches 'along the way' and with a lot of practical content from the world of content strategy.</div>
+Boston-based content strategist Margot Bloomstein has developed, practiced and reflected on *brand driven content strategy* as a specific approach to content strategy over a long period of time. In this lecture she presented and discussed the basics of her approach with a lot of  examples from her own practice.
 
-<div class="content">
+<figure>
+<caption>In her inimitable, always positive manner, Margot Bloomstein took the students by the hand, spoke about her own experiences and taught along the way how a brand driven content strategy can solve business problems.
+</caption>
+</figure>
 
-Towards the end of the 90ies the general approach of web-design was more user focused. But if an organization operates only on user needs their business values get lost and their brand becomes generic. The course “Brand Values & Message Architecture” focuses on the role and the needs of brands and how to solve their challenges with content strategy. The lecturer Margot Bloomstein is a passionate content strategist with more than 20 years of experience in the field. Her 5-step-process is the lens of how she looks at content strategy. “It is not the only one, but it is one right way”, Bloomstein explains.
+Towards the end of the 90ies user orientation became an important motto in web development and web design (although often not in the practice of companies). User orientation is often stressed as the most important guideline in content strategy. But if an organization is communicating only to meet user needs its business values ist business value becomes unrecgonizeable and its brand becomes generic. The course “Brand Values & Message Architecture” focuses on the role and the needs of brands and how to solve brand related challenges with content strategy.
 
-Our Brand-Value lectures were built along Bloomstein’s 5-step process (as shown in the image above) to create a brand-driven content strategy. In this article 3 of those 5 steps are being described in detail.
+The lecturer Margot Bloomstein is a passionate content strategist with more than 20 years of experience in the field. Hetr 5-step-process is the lens of how she looks at content strategy. “It is not the only one, but it is one right way”, Bloomstein explains.
 
-#### So - what is a message architecture? [#](#so-what-is-a-message-architecture)
+Margot Bloomsteing understands the creation of a brand driven content strategy as a 5 step process. Three essential components of this process, on which we will focus here, are:
 
-The message architecture is the core principle of a content strategy. It helps an organization to define what is important and valuable. A message architecture is not the brands value itself, but a guide for external communication. It sets the direction of how an organization should communicate with its audience to get its message across. “A message architecture is a hierarchy of communication goals; as a hierarchy, they're attributes that appear in order of priority, typically in an outline.” (Bloomstein, 2012, S.20) Since all businesses and organizations are dealing with constraints, such as limited time or budget, the message architecture represents the most important communication goals in a prioritized order.
+- the elaboration of a message architecture
+- a brand oriented content audit
+- the definition of the most appropriate content types.
+
+## Message architecture: the translation of brand values into communication goals
+
+The message architecture is the organizing principle of a brand oriented content strategy. With a precisely carved out message architecture an organization can make what is important and valuable to it the basis of actionable communication objectives. A message architecture is not the brands value itself, but a guide for external communication. It sets the direction of how an organization should communicate with its audience to get its message across. “A message architecture is a hierarchy of communication goals; as a hierarchy, they're attributes that appear in order of priority, typically in an outline.” (Bloomstein, 2012, S.20) Since all businesses and organizations are dealing with constraints, such as limited time or budget, the message architecture represents the most important communication goals in a prioritized order.
 
 #### Message architecture in practice [#](#message-architecture-in-practice)
 
@@ -106,7 +114,7 @@ According to Bloomstein many (content) challenges can be tackled with these 3 st
 
 <div class="mx-4 my-8">
 
-#### It has been really valuable that Margot shared her industry knowledge and helped us to apply them to our projects. I have already seen the positive results of her lectures in my professional life.
+> It has been really valuable that Margot shared her industry knowledge and helped us to apply them to our projects. I have already seen the positive results of her lectures in my professional life.
 
 – Omer Sarica, COS20-Student
 
@@ -114,7 +122,7 @@ According to Bloomstein many (content) challenges can be tackled with these 3 st
 
 <div class="mx-4 my-8">
 
-#### The Brand Values class provided me with a very practical approach to creating brand-driven content strategies. Starting with the messaging architecture creation exercise, the content audit and the final assignment (which brought everything together), this class equipped me with a solid foundation. The class prompted students to think about problem solving for business goals and user needs through the lens of communication goals and story-telling, using a logical step-by-step approach. Additionally, I particularly liked the instructor’s proactive approach to encouraging student participation. It sparked some very interesting discussions around the topic.
+> The Brand Values class provided me with a very practical approach to creating brand-driven content strategies. Starting with the messaging architecture creation exercise, the content audit and the final assignment (which brought everything together), this class equipped me with a solid foundation. The class prompted students to think about problem solving for business goals and user needs through the lens of communication goals and story-telling, using a logical step-by-step approach. Additionally, I particularly liked the instructor’s proactive approach to encouraging student participation. It sparked some very interesting discussions around the topic.
 
 – Azza El Arabi, COS20-Student
 
