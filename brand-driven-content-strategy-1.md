@@ -1,4 +1,4 @@
-# What is brand driven content strategy all about? A lecture by Margot Bloomstein
+# Message architecture - content audit - content types: Three building blocks of a brand driven content strategy. 
 
 
 A brand-driven content strategy helps an organization to figure out its values and differentiators. It shapes the path for all future content decisions.
@@ -10,11 +10,13 @@ Boston-based content strategist Margot Bloomstein has developed, practiced and r
 </caption>
 </figure>
 
-Towards the end of the 90ies user orientation became an important motto in web development and web design (although often not in the practice of companies). User orientation is often stressed as the most important guideline in content strategy. But if an organization is communicating only to meet user needs its business values ist business value becomes unrecgonizeable and its brand becomes generic. The course “Brand Values & Message Architecture” focuses on the role and the needs of brands and how to solve brand related challenges with content strategy.
+Towards the end of the 90ies user orientation became an important motto in web development and web design (although often not in the practice of companies). User orientation is often understood as the most important guideline in content strategy. But if an organization is communicating only to meet user needs its business value becomes unrecogonizeable and its brand becomes generic. The course “Brand Values & Message Architecture” focuses on the role and the needs of brands and on ways to solve brand related challenges through content strategy.
 
-The lecturer Margot Bloomstein is a passionate content strategist with more than 20 years of experience in the field. Hetr 5-step-process is the lens of how she looks at content strategy. “It is not the only one, but it is one right way”, Bloomstein explains.
+The lecturer Margot Bloomstein is a passionate content strategist with more than 20 years of experience in the field. She has developed her own method to create a brand driven content strategy. Brand driven content strategy is the lense through which she looks at content strategy. “It is not the only one, but it is one right way”, Bloomstein explains.
 
-Margot Bloomsteing understands the creation of a brand driven content strategy as a 5 step process. Three essential components of this process, on which we will focus here, are:
+![](pics/creating-a-message-architecture-workshop.jpg)
+
+Margot Bloomsteing understands the development of a brand driven content strategy as a 5 step process. The three fist steps are:
 
 - the elaboration of a message architecture
 - a brand oriented content audit
