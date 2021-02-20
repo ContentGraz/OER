@@ -1,4 +1,4 @@
-# Message architecture - content audit - content types: Three building blocks of a brand driven content strategy. 
+# Message architecture - content audit - content types: Three building blocks of a brand driven content strategy.
 
 
 A brand-driven content strategy helps an organization to figure out its values and differentiators. It shapes the path for all future content decisions.
@@ -24,9 +24,9 @@ Margot Bloomsteing understands the development of a brand driven content strateg
 
 ## Message architecture: the translation of brand values into communication goals
 
-The message architecture is the organizing principle of a brand oriented content strategy. With a precisely carved out message architecture an organization can make what is important and valuable to it the basis of actionable communication objectives. A message architecture does not consist of the brand's values themselves. It is a guide for external communication. It sets the direction of how an organization should communicate with its audience to get its message across. “A message architecture is a hierarchy of communication goals; as a hierarchy, they're attributes that appear in order of priority, typically in an outline.” (Bloomstein, 2012, S.20) Since all businesses and organizations are dealing with constraints, such as limited time or budget, the message architecture represents the most important communication goals in a prioritized order.
+The message architecture is the organizing principle of a brand oriented content strategy. By precisely carving out a message architecture an organization can define actionable communication objectives based on what is most important and valuable to it. A message architecture does not consist of the brand's values themselves. It is a guide for external communication. It sets the direction of how an organization should communicate with its audience to get its message across. “A message architecture is a hierarchy of communication goals; as a hierarchy, they're attributes that appear in order of priority, typically in an outline.” (Bloomstein, 2012, S.20) Since all businesses and organizations are dealing with constraints, such as limited time or budget, the message architecture represents the most important communication goals in a prioritized order.
 
-Margot Bloomstein showed the message architecture of a medical laboratory as an example:
+As an example Margot Bloomstein showed the message architecture of a medical laboratory:
 
 - Passionate about strategic discovery
     - creative, spirited, inspired
@@ -49,21 +49,21 @@ Margot Bloomstein showcased many real-life examples of how message architecture 
 
 ![Logos brands caffeine for message architecture](/assets/images/_general/logos-brands-caffeine-for-message-architecture.jpg)
 
-None of the students in class would have guessed the correct answer: **Starbucks coffee**. Why? Bloomstein explains that the messaging shapes the character of a brand and how it is being perceived. While Starbucks speaks more to professionals in suits, Red Bull focuses on the athlete type of consumer. The latter makes you believe that the drink gives you more energy, although that is in fact not true.
+None of the students in class would have guessed the correct answer: **Starbucks coffee**. Why? Bloomstein explains that the messaging shapes the character of a brand and how it is perceived. While Starbucks speaks more to professionals in suits, Red Bull focuses on the athlete type of consumer. The latter makes you believe that the drink gives you more energy, although that is in fact not true.
 
 #### How to define a message architecture: introduction to the card sorting exercise [#](#how-to-define-a-message-architecture-introduction-to-the-card-sorting-exercise)e
 
-Margot Bloomstein's preferred tool in developing a message architecture is a  sorting exercise with a a stack of brand cards. The stack consists of cards with around 100 possible attributes of a brand. Each attribute is printed on one card. The participants assign the cards to 3 different columns:
+Margot Bloomstein's preferred tool for developing a message architecture is a sorting exercise with a a stack of brand cards. The stack consists of cards with around 100 possible brand attributes. Each attribute is printed on one card. The participants assign the cards to 3 different columns:
 
 *   who we are not
 *   who we are
 *   who we’d like to be
 
-After all cards have been assigned to one of the columns, the pile of cards in the who-we-are-not-column gets tossed away. In a second round the participants try to discover the 3 or so most important attributes of their organization together with some accompanying or specifying secondary attributes. They have to decide what values (attributes) they want to leave behind - in most cases a difficult decision. But it is crucial arrive at a small number of specific messages -  otherwise it is impossible to use the messages for deciding what to communicate and what not. The identity of the organization would not be sufficiently defined. All attributes the participants want to keep, go into the pile of who we’d like to be. In the last step, the participants have to group similar attributes in word clouds and prioritize those clouds. The result is a hierarchy of attributes that represent an organization's communication goals.
+When all cards have been assigned to one of the columns, the pile of cards in the who-we-are-not-column gets tossed away. In a second round the participants try to discover the 3 or so most important attributes of their organization together with some accompanying or specifying secondary attributes. They have to decide what values (attributes) they want to leave behind - in most cases a difficult decision. But it is crucial to arrive at a small number of specific messages -  otherwise it is impossible to use the messages for deciding what to communicate and what not. The identity of the organization would not be sufficiently defined. All attributes the participants want to keep, go into the pile of who we’d like to be. In the last step, the participants have to group similar attributes in word clouds and prioritize those clouds. The result is a hierarchy of attributes that represent an organization's communication goals.
 
 **Annotation** Card sorting is also used in information architecture e.g. for defining navigation menus for a website.
 
-The physical interaction with the cards puts more weight on the terms selected. It also encourages a conversation around topics and concepts. During the whole process, the content strategist in the role of consultant and exercise facilitator steps back - that shows the group that it is their task and they are responsible to do the work. In the end, the deliverables are merely the result of the work of the client.  
+The physical interaction with the cards puts more weight on the terms selected. It also encourages a conversation around topics and concepts. During the whole process, the contento strategist takes over the role of a consultant and facilitator. She/he steps back to shows the group that it is their task and responsibility to do the work. In the end, the deliverables are merely the result of the work of the client.  
 
 #### Where do we go from there? [#](#where-do-we-go-from-there)
 
