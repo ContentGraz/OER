@@ -71,13 +71,15 @@ The message architecture is also the foundation for a qualitative content audit.
 
 #### What is a content audit? [#](#what-is-a-content-audit)
 
-The opportunity to start a content strategy from scratch is mostly not given, so the (future) content strategist has to look up carefully what’s already there when he or she is going to guide a company through the jungle of the theoretical part of the content - before even writing the first word of the copy or collecting the pictures.
+It is very rare that a content strategy can be started from scratch. That's why a content strategist must very carefully capture what's already there when he or she is going to lead a company on the rocky road of developing a strategy - before even writing the first word of copy or producing and curating illustrations.
 
-A content audit has proven its worth here. In order to determine what should be continued, what is superfluous, and what is missing, the current state of the media used must of course be determined. As there are different ways to audit content - all types have the preceding reason in common: A goal, a specific question, the message architecture - everything is a possible reason why or what is being measured. It does not make sense to perform an audit 'just because'.  
+A brand driven qualitative content audit has proven its worth here. In order to determine what should be continued, what is superfluous, and what is missing, The current status of an organization's content is surveyed and evaluated in terms of its consistency with the message architecture. Margot Bloomstein underlines that there are different ways to audit content - but they should be always guided by a specific motivation: A goal, a specific question, the message architecture: Many things can be a reason to evaluate content, but it does not make sense to perform an audit 'just because'.  
+
+**Annotation:** You find more information about content audits in the posts related to the COS course on content audits.
 
 #### How to conduct a qualitative content audit [#](#how-to-conduct-a-qualitative-content-audit)
 
-Initially, the quantity of the existing content is being gathered. For example: For a website content audit, a list of all the URLs can be put in a large spreadsheet (there are tools to do that). Next, the different content types should be examined. Are there a lot of PDFs on the web page? Are there many images (which is good)? Videos? Where are links set or is there double content? Are there dead links?
+Initially, it is necessary to determine the scope of content to which the audit refers. For example: For a website content audit, a list of all the URLs can be put in a large spreadsheet (there are tools to do that). Next, the share of the different content formats should be evaluated. Are there a lot of PDFs on the web page? Are there many images (which is good)? Videos? Where are links set or is there duplicate content? Are there dead links?
 
 After this rough overview the quality of the content can be determined. This works in several ways. The same table can be used and evaluated against the goals, the question or the priorities of the message architecture that has been determined before. But one can also make a customer journey through the current website and check if the needs are met, if the questions are answered.
 
