@@ -81,19 +81,21 @@ A brand driven qualitative content audit has proven its worth here. In order to 
 
 Initially, it is necessary to determine the scope of content to which the audit refers. For example: For a website content audit, a list of all the URLs can be put in a large spreadsheet (there are tools to do that). Next, the share of the different content formats should be evaluated. Are there a lot of PDFs on the web page? Are there many images (which is good)? Videos? Where are links set or is there duplicate content? Are there dead links?
 
-After this rough overview the quality of the content can be determined. This works in several ways. The same table can be used and evaluated against the goals, the question or the priorities of the message architecture that has been determined before. But one can also make a customer journey through the current website and check if the needs are met, if the questions are answered.
+After this rough overview the quality of the content can be determined. There are several ways to do this. The spreadsheet already created for the quantitative overview can be used as a base for evaluating the content piece by piece with relation to goals, the question that has been defined as starting point for the audit or to the message architecture that has been created. An alternative procedure consists in following a customer journey through the current website and checking if the customers' needs are met or their questions are answered.
 
-Doing the content audit is also dealing with restrictions - you need to figure out how to deal with constraints. Should you do only a strategic sample of the website? Which one is best to choose?
+Doing the content audit means also is also to deal with constraints. In most cases, resources are only sufficient to examine a portion of the available content. If it is only possible to analyse a strategically important sample of the website it is crucial to correctly define the criteria for chosing it.
 
-In order to set the right steps for a content strategy, this is one of the core deliveries to the client. At least the qualitative content audit helps to make recommendations for further content decisions.
+A content audit is one of the key deliveries to the client. It is essential for defining the key elements of a content strategy. Without a qualitative audit, all subsequent recommendations for content hang in the air.
 
-In the class, Margot Bloomstein provides several different ‘doings’ to get her students to the topic. ‘Hands-on’ and ‘speak up’ is the overriding principle in each of her lectures.
+In class, Margot Bloomstein provides several different ‘doings’ to get her students to the topic. ‘Hands-on’ and ‘speak up’ is the overriding principle in each of her lectures
+
+## Finding approriate content types: a crucial step
 
 Based on the content audit it is possible to recommend appropriate content types.  
 
 #### What is a content type? [#](#what-is-a-content-type)
 
-In his online glossary for web content management [Deane Barker](https://flyingsquirrelbook.com/author/) defines a content type as follows: “The specification of a logical type of content–for example, a News Article or a Blog Post.” A content type can be seen as declaration of a specific piece of content that contains information. Many business owners, CEO’s or even marketers are tempted to think that a simple video makes great content. In truth, it is still the message itself that decides between good or bad content. A video is just the packaging in which the message is being wrapped in. Therefore it is crucial to select content types which support specific communication goals.
+In his online glossary for web content management [Deane Barker](https://flyingsquirrelbook.com/author/) defines a content type as follows: “The specification of a logical type of content–for example, a News Article or a Blog Post.” A content type can be seen as declaration of a specific piece of content that defines requirements and possibilities. Many business owners, CEO’s or even marketers are tempted to think that a simple video makes great content. In truth, it is still the message itself that decides between good or bad content. A video is just the packaging in which the message is being wrapped in. Therefore it is crucial to select content types which support specific communication goals.
 
 #### How to recommend appropriate content types [#](#how-to-recommend-appropriate-content-types)
 
