@@ -89,19 +89,19 @@ A content audit is one of the key deliveries to the client. It is essential for 
 
 In class, Margot Bloomstein provides several different ‘doings’ to get her students to the topic. ‘Hands-on’ and ‘speak up’ is the overriding principle in each of her lectures
 
-## Finding approriate content types: a crucial step
+## Finding appropriate vhannels and content types: a crucial step
 
 Based on the content audit it is possible to recommend appropriate content types.  
 
 #### What is a content type? [#](#what-is-a-content-type)
 
-In his online glossary for web content management [Deane Barker](https://flyingsquirrelbook.com/author/) defines a content type as follows: “The specification of a logical type of content–for example, a News Article or a Blog Post.” A content type can be seen as declaration of a specific piece of content that defines requirements and possibilities. Many business owners, CEO’s or even marketers are tempted to think that a simple video makes great content. In truth, it is still the message itself that decides between good or bad content. A video is just the packaging in which the message is being wrapped in. Therefore it is crucial to select content types which support specific communication goals.
+In his online glossary for web content management [Deane Barker](https://flyingsquirrelbook.com/author/) defines a content type as follows: “The specification of a logical type of content–for example, a News Article or a Blog Post.” A content type can be seen as declaration of a specific piece of content that defines requirements and possibilities. Content types belong to channels: A blog post can belong to the channel *web site* or LinkedIn, a howto post can be part of a company's YouTube channel. Many business owners, CEO’s or even marketers are tempted to think that it it is enough to specify appropriate content as e.g. *video*. But still the message itself will decide between good or bad content. It needs the appropriate channel and content type to be perceived. Therefore it is crucial to select content types which support specific communication goals.
 
 #### How to recommend appropriate content types [#](#how-to-recommend-appropriate-content-types)
 
-After having conducted the audit the content strategist can recommend content types that fit the needs of the client. The selected content types represent the communication goals of the business, organization or company. Here is an example: If the communication goal is to be perceived as engaged and fun, is an annual report the right channel? Or is it a blog, games and videos? In other words, the choice of content types and channels manifest any communication goals that have been defined in the message architecture.
+After having conducted the audit the content strategist can recommend content types and channels that fit the needs of the client. The selected content types represent the communication goals of the business, organization or company. Example show easily how closely content types and communication goals are connected: If the communication goal is to be perceived as engaged and fun, is an annual report the right channel? Or are a blog, games and videos more appropriate? In other words, the chosen content types and channels will manifest the communication goals that have been defined in the message architecture.
 
-#### Finding content types: Let the Hunger Games begin [#](#finding-content-types-let-the-hunger-games-begin)
+#### Finding content types: A practical exercise [#](#finding-content-types-let-the-hunger-games-begin)
 
 In class each of the 29 students had to recommend one or two content types based on the audit they conducted before. The challenge was that none of the recommended content types should be repeated. The question at the time was: Are there enough content types for everyone?
 
@@ -111,10 +111,6 @@ Here is an excerpt from the ideas that the students presented (with a special th
 
 *   Wizard for Covid19 Help
 
-*   Infographic
-
-*   Videos
-
 *   Webinars with Q&A
 
 *   Case Studies
@@ -123,7 +119,7 @@ Here is an excerpt from the ideas that the students presented (with a special th
 
 *   Quiz
 
-*   Travel blog
+*   Travel blog post
 
 *   Checklist
 
@@ -131,9 +127,9 @@ Here is an excerpt from the ideas that the students presented (with a special th
 
 *   Pricing-range for the shops listed
 
-The mention of the Hunger Games in the headline is just a little joke from the authors because it turned out there was enough for everyone. When speaking of content types, one first thinks of video, images and long copy. But content types can be found in every corner. CoSchedule, a marketing organization software, published [113 content type ideas](https://coschedule.com/blog/types-of-content/), many of those are not immediately thought of such as quotes or references. Furthermore this list also shows clearly that suitable content types can also be found for smaller budgets. The latter has to be considered by the content strategist when recommending content types to the client. Because in the process of aligning the content types with the message architecture internal resources like budget or personnel can get shifted and reallocated.
+Before the exercise we feare a kind of Hunger Games: Would there be enough different content types and channels for everyone in the group?  When speaking of content types, one first thinks of media types like video, images and long copy. But content types can be found in every corner. CoSchedule, a marketing organization software, published [113 content type ideas](https://coschedule.com/blog/types-of-content/). Formats like quotes or references are often not even perceived as content types, but they have specific formal charakteristics on which their efficiency depends. (The credibility of a content collection may depend on the correctness and the sources of quotes.) Furthermore this list shows clearly that suitable content types can also be found for smaller budgets. The necessary resources have to be considered by the content strategist when recommending content types to the client. In the process of aligning the content types with the message architecture internal resources like budget or personnel can get shifted and reallocated.
 
-According to Bloomstein many (content) challenges can be tackled with these 3 steps: creating a message architecture, conducting an audit and recommending appropriate content types and channels. Deeper insights on Content modeling and editorial guidelines will be taught in specific lectures throughout the master degree of Content Strategy at FH Joanneum Graz.  
+According to Bloomstein many (content) challenges can be met by a correct execution of the 3 steps: creating a message architecture, conducting an audit and recommending appropriate content types and channels. Deeper insights on Content modeling and editorial guidelines will be taught in specific lectures throughout the master degree of Content Strategy at FH Joanneum Graz.  
 
 <div class="mx-4 my-8">
 
@@ -159,4 +155,11 @@ Barker, D. (2021, January 5). _Web Content Management. Glossary._ [https://flyin
 
 Bloomstein, M. (2012). Content strategy at work: Real-world stories to strengthen every interactive project. Morgan Kaufmann.  
 
+Bloomstein, M. (2012). Content strategy at work: Real-world stories to strengthen every interactive project. Morgan Kaufmann.
+
+Bloomstein, M. (2016, September 19). Brand-driven Content Strategy: Developing a Message Architecture [Slideshow]. http://de.slideshare.net/mbloomstein/branddriven-content-strategy-developing-a-message-architecture-workshop-at-confab-intensive-2016
+
+
 </div>
+
+[Brand-driven Content Strategy - Antonia Knall](https://antonia.cc/brand-driven-content-strategy/ "Brand-driven Content Strategy - Antonia Knall")
