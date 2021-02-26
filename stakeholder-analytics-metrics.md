@@ -1,14 +1,13 @@
-<div class="leading-relaxed text-lg mb-4">
+
 
 # Knowledge is Power! - How Analysis and Metrics can improve your Company
 
-14 December 2020
 
-Read time: 15 minutes
+## Teaser
 
-<div class="leading-relaxed mb-8 italic text-xl">Knowledge is power, and to recognize success, a company must not only effectively measure and know where it stands in the market and what its long-term investments and goals are but also which stakeholders are affected internally and externally and what group dynamics are formed between them. Measuring the appropriate metrics, a good pricing strategy and a proper stakeholder analysis will help a company to know, define, and make the right decisions for its short and long-term goals.</div>
+Knowledge is power, and to recognize success, a company must not only effectively measure and know where it stands in the market and what its long-term investments and goals are but also which stakeholders are affected internally and externally and what group dynamics are formed between them. Measuring the appropriate metrics, a good pricing strategy and a proper stakeholder analysis will help a company to know, define, and make the right decisions for its short and long-term goals.
 
-<div class="content">
+## Description
 
 A company's stakeholder analysis not only concerns the stakeholders themselves and their various needs, as well various topics such as group dynamics within the company and with external stakeholders, the pricing strategy pursued by a company, various start-up metrics with a focus on the Northstar that every company should have, and much more. These topics are described in the following blog article so that you too can have an idea of what a stakeholder analysis means.
 
@@ -75,7 +74,9 @@ In this classification, the alpha stands for the leader of the group. He or she 
 
 Let's start this topic with an example given by FH Joanneum Lector Dieter Rappold: Almost every person in the world knows the movie "Pretty Woman". To spend the week with the charming Edward Lewis a price of 3.000$ is agreed. The lady Vivian would also have agreed to the price of 2.000$ and he, in turn, would have paid 4.000$. The key question of this story:
 
-<center>**_“Who knows what the right price is?”_**</center>
+## Prices connect external and internal stakeholders
+
+“Who knows what the right price is?”_
 
 Price is one of the four main pillars of marketing and is shaped by the position of a company. If a company belongs to the discounters, such as Aldi or Hofer, the price is driven by the low price strategy. In contrast, a company that is known for higher-priced products, such as Apple, is driven by the highest price strategy, _“Without a crystal clear and consistent positioning, it is impossible to develop and implement a powerful pricing strategy”_ _mentioned Dieter Rappold in his lecture 2020\._
 
@@ -98,13 +99,9 @@ Why this is important for stakeholders? Good question! Here is the simple answer
 
 ### Metrics Matter [#](#metrics-matter)
 
-<div class="mx-4 my-8">
 
-#### “If you cannot measure it, you cannot improve it”
 
-– Lord Kelvin
-
-</div>
+> “If you cannot measure it, you cannot improve it”
 
 ![Metrics Matter](/assets/images/_general/MetricsMatter.png)
 
@@ -130,11 +127,11 @@ The key question is: **When to achieve which metrics?** To answer this question,
 
 <div class="mx-4 my-8">
 
-#### “A data-based decision-making culture is the single most important competitive edge of start-ups against incumbents. But most startups are in love with their product and rather work on a “Product founder fit “ than a “Product-market fit"."
+> “A data-based decision-making culture is the single most important competitive edge of start-ups against incumbents. But most startups are in love with their product and rather work on a “Product founder fit “ than a “Product-market fit"."
 
 – Dieter Rappold, Founder, and CEO of Speedinvest Pirates
 
-</div>
+
 
 ### Product Market Fit (PMF) & Sustainable Growth [#](#product-market-fit-pmf-sustainable-growth)
 

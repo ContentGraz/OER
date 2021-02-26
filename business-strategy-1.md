@@ -90,7 +90,7 @@ It is crucial that all company employees know the answers to these questions, sh
 
 – https://hbr.org/2007/09/demystifying-strategy-the-what
 
-These statements are obviously not so easy to verify. Therefore, strategic goals should be defined and aimed for, which concretize the vision of the company and make it measurable.
+These statements are obviously not so easy to verify. Therefore, **strategic** goals should be defined and aimed for, which concretize the vision of the company and make it measurable.
 
 ### SMART Goals and KPIs
 
@@ -107,12 +107,13 @@ Just kidding, there is so much more to know about successfully running a busines
 
 Did you just think “Okay, I get that. But isn’t one of the most important things for entrepreneurs to identify opportunities and go for them?”. Great objection! You’re absolutely right! So, how to deal with that paradox? Well, the main question rather is: How can you integrate those fantastic opportunities that come along in your strategy? The answer is simple: Use your brain, human. Watch out. Stay flexible. But: Follow your strategy! Always keep in mind and ask yourself “Is this opportunity on my strategic path or do I have to change my strategy path to integrate that opportunity?”
 
-## References
+## Recommended Reading
 
-## Literature recommendations
 
 The literature on the subject of strategy is hardly manageable. One of the most important authors is Harry Mintzberg, to whom the famous [5Ps for strategy][5ps-for_strategy] go back: plan, ploy. pattern, position and perspective. In the content strategy community, Kristina Halvorson, among others, has addressed the concept of strategy and the relationships between strategy and content strategy, e.g., in [What Is Strategy (and Why Should You Care)?][halvorson-on-strategy]. There is also a lot of literature about *hypertransparency* in the meantime; you can find some titles (except in the bibliography below) in the [COS-Bibliography][hyper-transparency-bibio].
 
+
+## References
 
 ---
 **Caveat (type: before authorization):**
