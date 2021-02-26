@@ -1,30 +1,30 @@
-# Message architecture - content audit - content types: Three building blocks of a brand driven content strategy.
+# Three building blocks of a brand driven content strategy:  Message architecture - content audit - content types
 
 
-A brand-driven content strategy helps an organization to figure out its values and differentiators. It shapes the path for all future content decisions.
+A brand-driven content strategy helps an organization to figure out and to convey its values and differentiators. It shapes the path for all future content decisions.
 
-Boston-based content strategist Margot Bloomstein has developed, practiced and reflected on *brand driven content strategy* as a specific approach to content strategy over a long period of time. In this lecture she presented and discussed the basics of her approach with a lot of  examples from her own practice.
+Boston-based content strategist Margot Bloomstein has developed, practiced and taught *brand driven content strategy* over a long period of time. In this lecture she presented and discussed the basics of her approach with a lot of  examples from her own practice.
 
 <figure>
 <caption>In her inimitable, always positive manner, Margot Bloomstein took the students by the hand, spoke about her own experiences and taught along the way how a brand driven content strategy can solve business problems.
 </caption>
 </figure>
 
-Towards the end of the 90ies user orientation became an important motto in web development and web design (although often not in the practice of companies). User orientation is often understood as the most important guideline in content strategy. But if an organization is communicating only to meet user needs its business value becomes unrecogonizeable and its brand becomes generic. The course “Brand Values & Message Architecture” focuses on the role and the needs of brands and on ways to solve brand related challenges through content strategy.
+Towards the end of the 90ies user orientation became an important motto in web development and web design (although not necessarily in the practice of companies). User orientation is often proclaimed as the most important guideline in content strategy. But if an organization is communicating only to meet user needs its business value may become unrecognizeable and its brand generic. The course “Brand Values & Message Architecture” focuses on the role and the needs of brands and on ways to solve brand related challenges through content strategy.
 
-The lecturer Margot Bloomstein is a passionate content strategist with more than 20 years of experience in the field. She has developed her own method to create a brand driven content strategy. Brand driven content strategy is the lense through which she looks at content strategy. “It is not the only one, but it is one right way”, Bloomstein explains.
+The lecturer Margot Bloomstein is a passionate content strategist with more than 20 years of experience in the field. Brand driven content strategy is the lense through which she looks at our discipline. “It is not the only one, but it is one right way”, Bloomstein explains.
 
 ![](pics/creating-a-message-architecture-workshop.jpg)
 
-Margot Bloomsteing understands the development of a brand driven content strategy as a 5 step process. The three fist steps are:
+Margot Bloomsteing conceives the development of a brand driven content strategy as a 5 step process. The three fist steps are:
 
 - the elaboration of a message architecture
 - a brand oriented content audit
 - the definition of the most appropriate content types.
 
-## Message architecture: the translation of brand values into communication goals
+## Message architecture: from brand values to communication goals
 
-The message architecture is the organizing principle of a brand oriented content strategy. By precisely carving out a message architecture an organization can define actionable communication objectives based on what is most important and valuable to it. A message architecture does not consist of the brand's values themselves. It is a guide for external communication. It sets the direction of how an organization should communicate with its audience to get its message across. “A message architecture is a hierarchy of communication goals; as a hierarchy, they're attributes that appear in order of priority, typically in an outline.” (Bloomstein, 2012, S.20) Since all businesses and organizations are dealing with constraints, such as limited time or budget, the message architecture represents the most important communication goals in a prioritized order.
+The message architecture is the organizing principle of a brand oriented content strategy. By precisely carving out a message architecture an organization can define actionable communication objectives based on what is most important to it. A message architecture does not consist of the brand's values themselves. It is a guide for external communication. It sets the direction of how an organization should communicate with its audience to get its message across. Since all businesses and organizations are dealing with constraints, such as limited time or budget, the message architecture represents the most important communication goals in a prioritized order. “A message architecture is a hierarchy of communication goals; as a hierarchy, they're attributes that appear in order of priority, typically in an outline.” (Bloomstein, 2012, S.20)
 
 As an example Margot Bloomstein showed the message architecture of a medical laboratory:
 
@@ -51,7 +51,7 @@ Margot Bloomstein showcased many real-life examples of how message architecture 
 
 None of the students in class would have guessed the correct answer: **Starbucks coffee**. Why? Bloomstein explains that the messaging shapes the character of a brand and how it is perceived. While Starbucks speaks more to professionals in suits, Red Bull focuses on the athlete type of consumer. The latter makes you believe that the drink gives you more energy, although that is in fact not true.
 
-#### How to define a message architecture: introduction to the card sorting exercise [#](#how-to-define-a-message-architecture-introduction-to-the-card-sorting-exercise)e
+#### How to define a message architecture: introduction to the card sorting exercise [#](#how-to-define-a-message-architecture-introduction-to-the-card-sorting-exercise)
 
 Margot Bloomstein's preferred tool for developing a message architecture is a sorting exercise with a a stack of brand cards. The stack consists of cards with around 100 possible brand attributes. Each attribute is printed on one card. The participants assign the cards to 3 different columns:
 
@@ -59,11 +59,11 @@ Margot Bloomstein's preferred tool for developing a message architecture is a so
 *   who we are
 *   who we’d like to be
 
-When all cards have been assigned to one of the columns, the pile of cards in the who-we-are-not-column gets tossed away. In a second round the participants try to discover the 3 or so most important attributes of their organization together with some accompanying or specifying secondary attributes. They have to decide what values (attributes) they want to leave behind - in most cases a difficult decision. But it is crucial to arrive at a small number of specific messages -  otherwise it is impossible to use the messages for deciding what to communicate and what not. The identity of the organization would not be sufficiently defined. All attributes the participants want to keep, go into the pile of who we’d like to be. In the last step, the participants have to group similar attributes in word clouds and prioritize those clouds. The result is a hierarchy of attributes that represent an organization's communication goals.
+The participants are free to add attributes they miss. When all cards have been assigned to one of the columns, the pile of cards in the who-we-are-not-column gets tossed away. In a second round the participants try to discover the 3 or so most important attributes of their organization together with some accompanying or specifying secondary attributes. They have to decide what values (attributes) they want to leave behind - in most cases a difficult decision. But it is crucial to arrive at a small number of specific messages -  otherwise it is impossible to use the messages for deciding what to communicate and what not. The identity of the organization would not be sufficiently defined. All attributes that the participants want to keep, go into the pile of who we’d like to be. In the last step, the participants have to group similar attributes in word clouds and prioritize those within those clouds. The result is a hierarchy of attributes that represent an organization's communication goals.
 
 **Annotation** Card sorting is also used in information architecture e.g. for defining navigation menus for a website.
 
-The physical interaction with the cards puts more weight on the terms selected. It also encourages a conversation around topics and concepts. During the whole process, the contento strategist takes over the role of a consultant and facilitator. She/he steps back to shows the group that it is their task and responsibility to do the work. In the end, the deliverables are merely the result of the work of the client.  
+The physical interaction with the cards puts a special weight on the selected terms. It also encourages a conversation around topics and concepts. During the whole process, the content strategist is acting in the role of a consultant and facilitator. She/he steps back to show the group that it is their task and responsibility to do the work. In the end, the deliverables are merely the result of the work of the client.  
 
 #### Where do we go from there? [#](#where-do-we-go-from-there)
 
@@ -73,7 +73,7 @@ The message architecture is also the foundation for a qualitative content audit.
 
 It is very rare that a content strategy can be started from scratch. That's why a content strategist must very carefully capture what's already there when he or she is going to lead a company on the rocky road of developing a strategy - before even writing the first word of copy or producing and curating illustrations.
 
-A brand driven qualitative content audit has proven its worth here. In order to determine what should be continued, what is superfluous, and what is missing, The current status of an organization's content is surveyed and evaluated in terms of its consistency with the message architecture. Margot Bloomstein underlines that there are different ways to audit content - but they should be always guided by a specific motivation: A goal, a specific question, the message architecture: Many things can be a reason to evaluate content, but it does not make sense to perform an audit 'just because'.  
+A brand driven qualitative content audit has proven its worth here. In order to determine what should be continued, what is superfluous, and what is missing, the current status of an organization's content is surveyed and evaluated as to its consistency with the message architecture. Margot Bloomstein underlines that there are different ways to audit content - but on each of them the content strategist should be guided by a specific motivation. A goal, a specific question, the message architecture &ndash;many things can be a reason to evaluate content, but it does not make sense to perform an audit 'just because'.  
 
 **Annotation:** You find more information about content audits in the posts related to the COS course on content audits.
 
@@ -81,21 +81,21 @@ A brand driven qualitative content audit has proven its worth here. In order to 
 
 Initially, it is necessary to determine the scope of content to which the audit refers. For example: For a website content audit, a list of all the URLs can be put in a large spreadsheet (there are tools to do that). Next, the share of the different content formats should be evaluated. Are there a lot of PDFs on the web page? Are there many images (which is good)? Videos? Where are links set or is there duplicate content? Are there dead links?
 
-After this rough overview the quality of the content can be determined. There are several ways to do this. The spreadsheet already created for the quantitative overview can be used as a base for evaluating the content piece by piece with relation to goals, the question that has been defined as starting point for the audit or to the message architecture that has been created. An alternative procedure consists in following a customer journey through the current website and checking if the customers' needs are met or their questions are answered.
+After this rough overview the quality of the content can be determined. There are several ways to do this. The spreadsheet that has been created for the quantitative overview can be used as a base for evaluating the content piece by piece. An alternative procedure consists in following a customer journey through the existing website and checking if the customers' needs are met or their questions are answered.
 
-Doing the content audit means also is also to deal with constraints. In most cases, resources are only sufficient to examine a portion of the available content. If it is only possible to analyse a strategically important sample of the website it is crucial to correctly define the criteria for chosing it.
+Doing the content audit means also to deal with constraints. In most cases, the restricted resources will only allow to examine a portion of the available content. If it is only possible to analyse a strategically important sample of the website it is crucial to correctly define the criteria for its choice.
 
-A content audit is one of the key deliveries to the client. It is essential for defining the key elements of a content strategy. Without a qualitative audit, all subsequent recommendations for content hang in the air.
+A content audit is one of the key deliveries to the client. It is essential for defining the key elements of a content strategy. Without a qualitative audit, all subsequent recommendations for content will dangle in the air.
 
 In class, Margot Bloomstein provides several different ‘doings’ to get her students to the topic. ‘Hands-on’ and ‘speak up’ is the overriding principle in each of her lectures
 
-## Finding appropriate vhannels and content types: a crucial step
+## Finding appropriate channels and content types: a crucial step
 
 Based on the content audit it is possible to recommend appropriate content types.  
 
 #### What is a content type? [#](#what-is-a-content-type)
 
-In his online glossary for web content management [Deane Barker](https://flyingsquirrelbook.com/author/) defines a content type as follows: “The specification of a logical type of content–for example, a News Article or a Blog Post.” A content type can be seen as declaration of a specific piece of content that defines requirements and possibilities. Content types belong to channels: A blog post can belong to the channel *web site* or LinkedIn, a howto post can be part of a company's YouTube channel. Many business owners, CEO’s or even marketers are tempted to think that it it is enough to specify appropriate content as e.g. *video*. But still the message itself will decide between good or bad content. It needs the appropriate channel and content type to be perceived. Therefore it is crucial to select content types which support specific communication goals.
+In his online glossary for web content management [Deane Barker](https://flyingsquirrelbook.com/author/) defines a content type as follows: “The specification of a logical type of content–for example, a News Article or a Blog Post.” A content type can be seen as declaration of a specific piece of content that defines requirements and possibilities. Content types belong to channels: A blog post can belong to the channel *web site* or LinkedIn, a howto post can be part of a company's YouTube channel. Many business owners, CEO’s or even marketers are tempted to think that it it is enough to specify appropriate content as e.g. *video*. But only a video of a specific type in a specific channel will be appropriate for the message and and achieve its purpose. It is crucial to select content types which support the message architecture.
 
 #### How to recommend appropriate content types [#](#how-to-recommend-appropriate-content-types)
 
