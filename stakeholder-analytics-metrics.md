@@ -1,19 +1,30 @@
 
 
-# Knowledge is Power! - How Analysis and Metrics can improve your Company
+# Knowledge is Power! - Data based stakeholder analysis
 
 
 ## Teaser
 
-Knowledge is power, and to recognize success, a company must not only effectively measure and know where it stands in the market and what its long-term investments and goals are but also which stakeholders are affected internally and externally and what group dynamics are formed between them. Measuring the appropriate metrics, a good pricing strategy and a proper stakeholder analysis will help a company to know, define, and make the right decisions for its short and long-term goals.
+Knowledge is power, and to recognize success, a company must not only effectively measure and know where it stands in the market and what its long-term investments and goals are but also which stakeholders are affected internally and externally and what group dynamics are formed between them. Using the appropriate metrics, a good pricing strategy and a proper stakeholder analysis will help a company to know, define, and make the right decisions for its short and long-term goals.
+
+## Context
+
+*Stakeholder ist ein zentraler Begriff in der Management-Lehre und Literatur. Als Stakeholder werden alle Akteure verstanden, die von den Aktivitäten einer Organisation betroffen sind, wobei der Begriff immer wieder neu interpretiert wurde.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TU48Nb78bSc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+In der Content-Strategie ist das Konzept des Stakeholders oft übernommen worden. Wenn man sich als Content-Stratege mit Stakeholdern beschäftigt, muss man immer überlegen, in welchem Verhältnis die Stakeholder des Content zu den Stakeholdern der ganzen Organisation stehen. In dieser Vorlesung stellt Dieter Rappold vor, wie Unternehmen heute Informationen über ihre Stakeholder sammeln und analysieren. 
 
 ## Description
 
-A company's stakeholder analysis not only concerns the stakeholders themselves and their various needs, as well various topics such as group dynamics within the company and with external stakeholders, the pricing strategy pursued by a company, various start-up metrics with a focus on the Northstar that every company should have, and much more. These topics are described in the following blog article so that you too can have an idea of what a stakeholder analysis means.
+A company's stakeholder analysis comprises much more than a qualitative description of the stakeholders themselves and their various needs. Some of the many factors that it can take into consideration are:
+* the group dynamics within the company and with external stakeholders,
+* the pricing strategy pursued by a company,
+* various matrics, in the case of a start-up with a focus on the Northstar that every company should have.
 
 ### Stakeholders – What does that mean? [#](#stakeholders-what-does-that-mean)
 
-Stakeholders are those persons who influence both inside and outside the company. Thus the term stakeholder includes not only employees and customers but also other external factors. The most important external grouping for this is the state, the government, or the laws and guidelines that the company must follow. Stakeholders also include competitors and rivals with whom the company shares the market. The pricing strategy described below is partly based on this.
+Stakeholders are those actors who influence an organization either from inside or from outside. Thus the term stakeholder includes not only employees and customers but also other external factors. The most important external factor is the state, the government as well as the laws and guidelines that the company must follow. Stakeholders also include competitors and rivals with whom the company shares the market. The pricing strategy described below is partly based on this.
 
 The next grouping is society itself. This includes not only customers but also the value for which the company is viewed from the outside. In other words, not only how you as a customer see the company but how people perceive it when they don't buy from the company.
 

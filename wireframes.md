@@ -1,4 +1,6 @@
-# What’s in the box? Wireframes, types and content objects: core concepts in content management
+# What wireframes show about content management 
+
+Wireframes and some basics of content management What’s in the box? Wireframes, types and content objects: core concepts in content management
 
 
 Following the process of a wireframe analysis, this lecture report touches on some of the basic questions, concepts and insights presented in Deane Barker’s class “Introduction to Content Management”.
@@ -28,7 +30,7 @@ Often the same wireframe type is used instances of the same [content type](https
 
 <!-- misunderstanding of content types. Was: Usually there is one wireframe for each content type like text, image, video etc. -->
 
-## Question 2: What is a wireframe made of? 
+## Question 2: What is a wireframe made of?
 
 Basically a wireframe is made of the [Operative Content Object](https://flyingsquirrelbook.com/glossary/term/operative-content-object/ "Term: 'Operative Content Object'") and its surrounding that consists for example of a header, footer or sidebar (see a wireframe example image 1: yellow area (1) marks the Operative Content Object, green area (2) marks the surrounding).
 
