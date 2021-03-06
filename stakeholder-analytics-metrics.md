@@ -1,6 +1,6 @@
 
 
-# Knowledge is Power! - Data based stakeholder analysis
+# Startup Metrics
 
 
 ## Teaser
@@ -9,24 +9,24 @@ Knowledge is power, and to recognize success, a company must not only effectivel
 
 ## Context
 
-*Stakeholder ist ein zentraler Begriff in der Management-Lehre und Literatur. Als Stakeholder werden alle Akteure verstanden, die von den Aktivitäten einer Organisation betroffen sind, wobei der Begriff immer wieder neu interpretiert wurde.
+*Stakeholder* is a central term in management theory and literature. Stakeholders are understood to be all actors affected by an organization's activities, and the term has been repeatedly reinterpreted.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TU48Nb78bSc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-In der Content-Strategie ist das Konzept des Stakeholders oft übernommen worden. Wenn man sich als Content-Stratege mit Stakeholdern beschäftigt, muss man immer überlegen, in welchem Verhältnis die Stakeholder des Content zu den Stakeholdern der ganzen Organisation stehen. In dieser Vorlesung stellt Dieter Rappold vor, wie Unternehmen heute Informationen über ihre Stakeholder sammeln und analysieren. 
+In content strategy, the concept of stakeholder has often been adopted. When dealing with stakeholders as a content strategist, one must always consider how the stakeholders of the content relate to the stakeholders of the organization as a whole. In this lecture, Dieter Rappold presents how companies today collect and analyze information about their stakeholders.
 
 ## Description
 
 A company's stakeholder analysis comprises much more than a qualitative description of the stakeholders themselves and their various needs. Some of the many factors that it can take into consideration are:
 * the group dynamics within the company and with external stakeholders,
 * the pricing strategy pursued by a company,
-* various matrics, in the case of a start-up with a focus on the Northstar that every company should have.
+* various metrics, in the case of a start-up with a focus on the Northstar that every company should have.
 
 ### Stakeholders – What does that mean? [#](#stakeholders-what-does-that-mean)
 
 Stakeholders are those actors who influence an organization either from inside or from outside. Thus the term stakeholder includes not only employees and customers but also other external factors. The most important external factor is the state, the government as well as the laws and guidelines that the company must follow. Stakeholders also include competitors and rivals with whom the company shares the market. The pricing strategy described below is partly based on this.
 
-The next grouping is society itself. This includes not only customers but also the value for which the company is viewed from the outside. In other words, not only how you as a customer see the company but how people perceive it when they don't buy from the company.
+The next important stakeholder od stakeholder group is society itself. This includes not only customers but also the value for which the company is viewed from the outside. In other words, not only how you as a customer see the company but how people perceive it when they don't buy from the company.
 
 The individual groups of stakeholders vary from company to company. There is no clear classification since a state-controlled company that operates internationally naturally has completely different stakeholders than a small company that operates nationally.
 
@@ -81,11 +81,9 @@ In this classification, the alpha stands for the leader of the group. He or she 
 
 ![Picture1 Group Dynamics](/assets/images/_general/Picture1_GroupDynamics.jpg)
 
-### Let’s talk about the Price [#](#lets-talk-about-the-price)
+### Prices connect external and internal stakeholders [#](#lets-talk-about-the-price)
 
 Let's start this topic with an example given by FH Joanneum Lector Dieter Rappold: Almost every person in the world knows the movie "Pretty Woman". To spend the week with the charming Edward Lewis a price of 3.000$ is agreed. The lady Vivian would also have agreed to the price of 2.000$ and he, in turn, would have paid 4.000$. The key question of this story:
-
-## Prices connect external and internal stakeholders
 
 “Who knows what the right price is?”_
 
