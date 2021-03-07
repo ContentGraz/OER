@@ -24,8 +24,6 @@ The lecturer Margot Bloomstein is a passionate content strategist with more than
 
 ## Description
 
-![](pics/creating-a-message-architecture-workshop.jpg)
-
 Margot Bloomsteing conceives the development of a brand driven content strategy as a 5 step process. The three fist steps are:
 
 - the elaboration of a message architecture
@@ -56,8 +54,6 @@ As an example Margot Bloomstein showed the message architecture of a medical lab
 #### Message architecture in practice
 
 Margot Bloomstein showcased many real-life examples of how message architecture works in practice. She sparked up a discussion by asking which of these drinks contain the most caffeine:
-
-![Logos brands caffeine for message architecture](/assets/images/_general/logos-brands-caffeine-for-message-architecture.jpg)
 
 None of the students in class would have guessed the correct answer: **Starbucks coffee**. Why? Bloomstein explains that the messaging shapes the character of a brand and how it is perceived. While Starbucks speaks more to professionals in suits, Red Bull focuses on the athlete type of consumer. The latter makes you believe that the drink gives you more energy, although that is in fact not true.
 
@@ -148,7 +144,7 @@ The COS program includes a separate [course on content audits][content_audits], 
 
 ## Recommended Reading
 
-In her first book[^bloomstein_cs_at_work], Margot Bloomstein described how she practices brand oriented content strategy based on many examples. She has also presented her concept in many presentations (e.g. [Brand-driven Content Strategy: Developing a Message Architecture](https://de.slideshare.net/mbloomstein/branddriven-content-strategy-developing-a-message-architecture-workshop-at-confab-intensive-2016 "Brand-driven Content Strategy: Developing a Message Architecture work…")[^bloomstein_slideshow]) and videos (e.g. [Promoting Your Brand](https://vimeo.com/108578843 "Margot Bloomstein | Promoting Your Brand / Day 2 on Vimeo")[^bloomstein_video]). In the meantime, she has further developed her concept and published the book [Trustworthy: how the smartest brands beat cynicism and bridge the trust gap](https://pagetwo.com/book/trustworthy/ "Trustworthy - Page Two").
+In her first book[^bloomstein_cs_at_work], Margot Bloomstein described how she practices brand oriented content strategy based on many examples. She has also presented her concept in many presentations (e.g. [Brand-driven Content Strategy: Developing a Message Architecture](https://de.slideshare.net/mbloomstein/branddriven-content-strategy-developing-a-message-architecture-workshop-at-confab-intensive-2016 "Brand-driven Content Strategy: Developing a Message Architecture work…")[^bloomstein_slideshow]) and videos (e.g. [Promoting Your Brand](https://vimeo.com/108578843 "Margot Bloomstein | Promoting Your Brand / Day 2 on Vimeo")[^bloomstein_video]). In the meantime, she has further developed her concept and published the book [Trustworthy: how the smartest brands beat cynicism and bridge the trust gap](https://pagetwo.com/book/trustworthy/ "Trustworthy - Page Two")[^bloomstein_trustworthy].
 
 COS students have written about Margot's teaching in blogposts and portfolios. One of them: [Brand-driven Content Strategy](https://antonia.cc/brand-driven-content-strategy/ "Brand-driven Content Strategy - Antonia Knall")[^knall].
 
