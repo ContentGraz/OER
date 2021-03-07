@@ -127,7 +127,7 @@ Startup metrics are a part of business analytics. The borders between business a
 
 In our master's program elements of this introductory lecture will be used in the courses on web and social media analytics and content marketing.
 
-## Literature
+## Recommended Reading
 
 The Austrian company [Speedinvest Pirates](https://www.speedinvest-pirates.com/ "Home | Speedinvest Pirates") (disclosure: our lecturer Dieter Rappold ist on of its founders) offers a short and succinct guide to startup metrics for free: [The ultimate guide to startup metrics](https://get.speedinvest-pirates.com/metrics-guide/ "Download Page for 'The ultimate guide to startup metrics'")[^weinmayr]
 
