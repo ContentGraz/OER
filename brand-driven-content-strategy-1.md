@@ -168,6 +168,12 @@ Some examples of the development of brand-oriented content strategies can be fou
 
 [^bloomstein_video]: Margot Bloomstein | Promoting Your Brand / Day 2. (2014, October 9). https://vimeo.com/108578843
 
+**Caveat (type: before authorization):**
+
+*This article is a student-written report on the content of a part of the course [Brand driven content strategy][brand_driven_content_strategy] in the 1st semester of the [M.A. program in content strategy][cos]. It reflects the understanding of the content from the students' point of view and may therefore contain interpretations that do not coincide with the views of the instructor.*
+
 [content_audits]: /courses/content-audits
 [content_models]: /courses/content-models
 [content_management]: /courses/content-management
+[brand_driven_content_strategy]: /courses/brand-driven-content-strategy
+[cos]: https://fh-joanneum.at/cos
