@@ -16,9 +16,7 @@ Content strategy roles
 
 What is a *content strategist*? In practice and literature, this role is understood in many different and often conflicting ways. In her introductory lecture, [Rahel Bailie][rahelbailie] explained, why she understands content strategists as business consultants specialized in content.
 
----
-
-## Context
+## Relevance
 
 The tasks of content strategists are not as clearly defined as those of other professions and roles in digital business. This makes it difficult for freelance content strategists to describe what services they provide, and it makes content strategists who work in-house the go-to girl for everything on content-related tasks that no one else wants to play. To be a successful in the profession, it's important to clearly define the role of the content strategist. Rahel Bailie therefore clearly distinguished the role of content strategists from other roles at the very beginning of her introduction to content strategy, comparing it to a similar role, that of business consultant.
 
@@ -106,11 +104,13 @@ Bailie, R. A. (2018, February 27). Why content strategists are the doctors of th
 *This article is a student-written report on the content of a part of the course [Kickoff Workshop: What is Content Strategy?][kickoff-workshop] in the 1st semester of the [M.A. programs in content strategy][cos]. It reflects the understanding of the content from the students' point of view and may therefore contain interpretations that do not coincide with the views of the instructor.*
 
 ---
+
+
+## References
+
 [rahelbailie]: https://www.fh-joanneum.at/hochschule/person/rahel-anne-bailie/
 [kickoff-workshop]: https://www.fh-joanneum.at/content-strategie-und-digitale-kommunikation/master/en/course/introduction-to-content-strategy/200778101-kickoff-workshop-what-is-content-strategy-2020/ws/2020/ "Kickoff Workshop: What is Content Strategy?"
 [cos]: https://www.fh-joanneum.at/content-strategie-und-digitale-kommunikation/master/en/programme/ "Content-Strategie / Content Strategy"
-
-## References
 
 [^1]: Toppin, G., & Czerniawska, F. (2005). Business consulting: A guide to how it works and how to make it work. Profile.
 

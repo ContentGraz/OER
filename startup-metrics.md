@@ -1,19 +1,19 @@
-# Metrics Matter [#](#metrics-matter)
+# Startup Metrics
 
 ## Teaser
 
 
 Knowledge is power. To recognize success, a company must effectively measure and know where it stands in the market and what its long-term investments and goals are. Measuring with the appropriate metrics will help a company to make the right decisions for its short and long-term goals.
 
-## Context
+## Course
+
+"Stakeholder Analysis and Digital Business" taught by Dieter Rappold in the first Semester of the Master's degree course "Content Strategy" October and November 2020
+
+## Relevance
 
 Startups are focused on very rapid growth. Successful startups are experimental and data-driven, and their metrics are closely related to the metrics for measuring the success of content. Startups and digital content live in the same digital ecosystems.
 
 This lecture provides an introduction to startup metrics from the perspective of a digital entrepreneur, investor and consultant.
-
-## Course
-
-"Stakeholder Analysis and Digital Business" taught by Dieter Rappold in the first Semester of the Master's degree course "Content Strategy" October and November 2020
 
 ## Teacher
 
@@ -50,11 +50,11 @@ Proven metrics for start-ups, which can be used for a customized metrics strateg
 
 The key question is: **When to apply which metrics?** To answer this question, it is crucial to differentiate between the different metrics, like input and output metrics. Output metrics reflect the results, and input metrics indicate actions. Above all, before you start you should base your decision on your data.
 
-### What to achieve by Metrics? Product Market Fit (PMF) as a condition for Sustainable Growth [#](#product-market-fit-pmf-sustainable-growth)
+### What to achieve by Metrics? Product Market Fit (PMF) as a condition for Sustainable Growth
 
 The [Product/Market Fit](https://web.stanford.edu/class/ee204/ProductMarketFit.html "EE204 Business Management for Engineers and Computer Scientists")[^andreesen] (PMF) is no metric but it should guide a start-up's analytics efforts as soon as product specific information from the market can be gathered. The Product/market fit is the degree to which a product satisfies strong market demand. Measuring the Product/market fit is the first step for a company to gather feedback from the market and to evaluate the customers' interest in a specific products. The Product-Market Fit can be considered as one of the main orientation points of a start-up's successful work.
 
-![PMF](/assets/images/_general/PMF.png)
+![PMF](pics/PMF.png)
 
 **To focus on the PMF metric helps us in:**
 
@@ -67,9 +67,9 @@ The [Product/Market Fit](https://web.stanford.edu/class/ee204/ProductMarketFit.h
 *   It is unclear what to track, when, and how
 *   Lack of focus on product-market fit
 
-### Find your personal North Star Metric (NSM) [#](#find-your-personal-north-star-metric-nsm)
+### Find your personal North Star Metric (NSM)
 
-![North Star png](/assets/images/_general/NorthStar.png.jpg)
+![North Star png](pics/NorthStar.png)
 
 Whatever you are doing - you need a metric which gives you an orientation for all of your business, often called a [North Star Metric](https://growwithward.com/north-star-metric/ "What is your North Star Metric? + 8 steps to find your NSM immediately. 2019, November 4. Ward van Gasteren")[^van_gasteren]. It measure's your overall company success. Just as the North Star is needed to align the entire coordinate system of the sky, the North Star metric provides a reference point for all other metrics, and thus for all of an organization's actions.
 
@@ -81,12 +81,12 @@ When defining your NSM the company needs to be aware that “revenue” is a bad
 
 The key reason, why a Company should have a North Star Metric or in other words the **pros:**
 
-*   **Orientation:** the NSM gives more orientation to the company itself, the core business, and the products which are sold
-*   **Core Value:** NSM captures the core value of the business and the company.
-*   **Focus:** The NSM provides a clear focus, and everyone has the same goal.
-*   **Clarity:** It is clear to everyone how and what the company is doing on a short- and long-term basis
-*   **Customer focus:** the first concern is bringing value to the customer
-*   **Growth:** efficient long-term growth as the company is more focused on value
+* **Orientation:** the NSM gives more orientation to the company itself, the core business, and the products which are sold
+* **Core Value:** NSM captures the core value of the business and the company.
+* **Focus:** The NSM provides a clear focus, and everyone has the same goal.
+* **Clarity:** It is clear to everyone how and what the company is doing on a short- and long-term basis
+* **Customer focus:** the first concern is bringing value to the customer
+* **Growth:** efficient long-term growth as the company is more focused on value
 
 ### The AARRR funnel - a proven combination of metrics
 
@@ -100,9 +100,9 @@ A well known activation metric is CAC – *Customer Acquisition Cost*. CAC shows
 
 Let’s move on to the R which stands for *Retention*: It indicates the quality of growth. And that means how many customers who have bought from the company once come back and how often. Often a differentiation is made here between:
 
-*   DAU = Daily Active Users
-*   WAU = weekly active users
-*   MAU = monthly active users
+* DAU = Daily Active Users
+* WAU = weekly active users
+* MAU = monthly active users
 
 In digital sales, these figures are particularly important. Various marketing campaigns try to push the numbers up and to boost sales. Good retention metrics inform about the quality of growth, eg about the percentage of daily users who become monthly unsers.
 
@@ -116,10 +116,8 @@ Not only for start-ups the AARRR is important. Also, long-existing companies sho
 
 ## Presentation
 
-<iframe frameborder="0" scrolling="no"
-    width="640" height="480"
-    src="dieterrappold_cos20_ws2020_metricslecture.pdf">
- </iframe>
+<dieterrappold_cos20_ws2020_metricslecture.pdf>
+
 
 ## Where to go from here
 
@@ -144,7 +142,7 @@ Find more literature regarding some of the mentioned topics in the references! W
 
 [^berger]: Berger, P. D., & Nasr, N. I. (1998). Customer lifetime value: Marketing models and applications. JOURNAL OF INTERACTIVE MARKETING, 12(1), 14. https://doi.org/10.1002/(SICI)1520-6653(199824)12:1<17::AID-DIR3>3.0.CO;2-K
 
-[^chen]: Chen, A. (2008, April 18). Viral coefficient: What it does and does NOT measure [Personal Website]. @andrewchen. https://andrewchen.co/viral-coefficient-what-it-does-and-does-not-measure/
+[^chen]: Chen, A. (2008, April 18). Viral coefficient: What it does and does NOT measure [Personal Website]. /@andrewchen. https://andrewchen.co/viral-coefficient-what-it-does-and-does-not-measure/
 
 [^churn]: Customer Churn Rate: Definition, Measuring Churn and Increasing Revenue. (2014, October 30). Retention Science. https://www.retentionscience.com/blog/why-measuring-your-customer-churn-rate-increases-revenue/
 

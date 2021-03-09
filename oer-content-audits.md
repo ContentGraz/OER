@@ -2,7 +2,12 @@
 
 
 ## Course
+
+
+
 ## Topics
+
+
 ## Teachers
 [Paula Lands](https://www.fh-joanneum.at/en/university/person/paula-ladenburg-land/)
 
@@ -84,7 +89,7 @@ To be able to do a comprehensive and full audit, a content inventory should be d
 
 A content inventory contains structured data, usually in the form of spreadsheet. How many and which data the inventory contains depends on the project definition. All website content inventories should comprise: URL, file type, media including videos and images, meta data, Word Count and `H1` tag text. If a tool/software is used to create the inventory, it is suggested to start from the home page and to follow the navigational structure. It is essential to label every item of the inventory by an ID in addition to the URL to not get confused in the future when URLs change and to be able to sort the content easily.
 
-![Content Inventory SpreadSheet](/assets/images/_general/content-inventory-excel.png)
+![Content Inventory SpreadSheet](pics/content-inventory-excel.png)
 
 There are 2 ways to create an inventory:
 
@@ -104,11 +109,29 @@ Just a brief information for you to consider different types of content audits; 
 *  A **Content Performance Audit** uses analytics data, site metrics, search data and customer feedback to see how content is performing towards quantitative business objectives.
 *  An **audience audit** elaborates how content meets with the users needs by focusing on user types, needs, tasks, flows, customer journey map, and gap analyses.
 *   The **structural (functional)** audit focuses on user interface and user experience. It identifies content elements, interactions, navigational models, templates and content types.
-*   The **global audit** analyse site for localisation efforts including language support, breadth of translation, cultural relevance, navigational model, imagery, design consistency, regional and local content and localised meta content.  
+*   The **global audit** analyse site for localisation efforts including language support, breadth of translation, cultural relevance, navigational model, imagery, design consistency, regional and local content and localised meta content.
+
+## Where to go from here
+
+The inventory is the base for a content audit. As we have described it above it is closely related to the kind of audit you want to perform.  In the recommended reading session below you find links to information about subsequent steps of audits. In our article on the [first steps of a brand driven content strategy][bds-1] you can read more about brand audits.
 
 
 ## Recommended reading
 
-Paula Land's book on content audits is still the most comprehensive introduction to the subject. It also provides comprehensive information about content inventories. You find a detailed review of the book here in this knowledge base: [Content Audits and Inventories – A Handbook by Paula Land](https://oer.putyourlightson.dev/literature-reviews/content-audits-and-inventories-a-handbook-by-paula-land "Content Audits and Inventories – A Handbook by Paula Land | Content Strategy EN").
+Paula Land's [book on content audits](https://xmlpress.net/content-strategy/audits-and-inventories/ "Content Audits and Inventories: A Handbook. XML Press.")[^land-book] is still the most comprehensive introduction to the subject. It also provides comprehensive information about content inventories. You find a detailed review of the book here in this knowledge base: [Content Audits and Inventories – A Handbook by Paula Land](https://oer.putyourlightson.dev/literature-reviews/content-audits-and-inventories-a-handbook-by-paula-land "Content Audits and Inventories – A Handbook by Paula Land | Content Strategy EN").
 
-Paula Land's short article in The Language of Content Strategy contains links to interesting texts from the early phase of content strategy, one of the first typical tools of which were content inventories.
+Paula Land's short article in [The Language of Content Strategy](http://www.thelanguageofcontentstrategy.com/2014/05/term-of-the-week--content-inventory.html#.YETQLP4o_fA "Term of the Week: Content Inventory – The Language of Content Strategy. The Language of Content Strategy.")[^land-article] contains links to interesting texts from the early phase of content strategy, one of the first typical tools of which were content inventories.
+
+**Caveat (type: before authorization):**
+
+*This article is a student-written report on the content of a part of the course [Content audits][content-audits] in the 1st semester of the [M.A. programs in content strategy][cos]. It reflects the understanding of the content from the students' point of view and may therefore contain interpretations that do not coincide with the views of the instructor.*
+
+## References
+
+[^land-article]: Land, P. (2014, May 29). Term of the Week: Content Inventory – The Language of Content Strategy. The Language of Content Strategy. <http://www.thelanguageofcontentstrategy.com/2014/05/term-of-the-week--content-inventory.html#.YETQLP4o_fA>
+
+[^land-book]: Land, P. L. (2014). Content Audits and Inventories: A Handbook. XML Press. <https://xmlpress.net/content-strategy/audits-and-inventories/>
+
+
+[bds-1]: /lecture-reports/how-a-brand-driven-content-strategy-makes-brand-values-great-again
+[content-audits]:
