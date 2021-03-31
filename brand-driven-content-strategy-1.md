@@ -1,6 +1,12 @@
 
 # Three building blocks of a brand driven content strategy:  Message architecture - content audit - content types
 
+## course
+
+## Topics
+
+## Teachers
+
 
 ## Teaser
 
@@ -12,13 +18,16 @@ Boston-based content strategist Margot Bloomstein has developed, practiced and t
 
 Towards the end of the 90ies user orientation became an important motto in web development and web design (although not necessarily in the practice of companies). User orientation is often proclaimed as the most important guideline in content strategy. But if an organization is communicating only to meet user needs its business value may become unrecognizeable and its brand generic. The course “Brand Values & Message Architecture” focuses on the role and the needs of brands and on ways to solve brand related challenges through content strategy.
 
-The lecturer Margot Bloomstein is a passionate content strategist with more than 20 years of experience in the field. Brand driven content strategy is the lense through which she looks at our discipline. “It is not the only one, but it is one right way”, Bloomstein explains.
+
 
 
 ## Illustration
 
 <figure>
-<caption>In her inimitable, always positive manner, Margot Bloomstein took the students by the hand, spoke about her own experiences and taught along the way how a brand driven content strategy can solve business problems.
+<caption>
+The lecturer Margot Bloomstein is a passionate content strategist with more than 20 years of experience in the field. Brand driven content strategy is the lense through which she looks at our discipline. “It is not the only one, but it is one right way”, Bloomstein explains.
+
+In class, Margot Bloomstein provides several different ‘doings’ to get her students to the topic. ‘Hands-on’ and ‘speak up’ is the overriding principle in each of her lectures
 </caption>
 </figure>
 
@@ -95,7 +104,6 @@ Doing the content audit means also to deal with constraints. In most cases, the 
 
 A content audit is one of the key deliveries to the client. It is essential for defining the key elements of a content strategy. Without a qualitative audit, all subsequent recommendations for content will dangle in the air.
 
-In class, Margot Bloomstein provides several different ‘doings’ to get her students to the topic. ‘Hands-on’ and ‘speak up’ is the overriding principle in each of her lectures
 
 #### Finding appropriate channels and content types: a crucial step
 

@@ -30,7 +30,7 @@ STONKS! Just like the woman in this licence-free picture we found on the interne
 
 ## Description
 
-“Developing relationships, delivering results.” – these are the core missions of a consultant. But it’s about more than just the relationship between the consultant and the business. It’s about identifying connections between the business’ strengths, weaknesses and goals to achieve the desired future with the help of the consultant’s expertise. "The point is that business consultants are supposed to improve businesses: they are not hired to maintain the status quo but to change it."[^1] And that’s also the core mission of a content strategist. Content strategy means combining a business’ lifecycles concerning customers, products and content. These lifecycles and their sub-activities are interdependent, whereby decision making is just successful by considering one another. It’s about planning *acquisition activities* such as content marketing, social media marketing or direct marketing campaigns to attract new clients. It’s about *maintaining clients* by using content for customer support, training and knowledge base. And it’s about the *management and governance* of content.
+The consultant's main task consists in identifying connections between a business’ strengths, weaknesses and goals in order to achieve the desired future. "The point is that business consultants are supposed to improve businesses: they are not hired to maintain the status quo but to change it."[^1] The core mission of a content strategist is not different. Content strategists need an holistic view on a business’ core processes in order to identify the contributions of content to achieve business goals. The   lifecycles of a business's customers, products and content and their sub-activities are interdependent. Decision making is only successful if the dependencies are taken into account. The business processes in the field of content are often similar to the business processes in other fields and they support those processes. Content plays an important role for *acquisition activities* such as content marketing, social media marketing or direct marketing campaigns to attract new clients. Content has essential functions in *maintaining clients* via customer support, training and knowledge bases. The *management and governance* of content is not only essiantial to secure effectiveness and efficiency of its production and administration but also for defining key charakteristics of a business for external and internal stakeholders. 
 
 All in all, Content Strategy can be seen as the umbrella strategy that includes every internal and external factor, which affects the business.
 
@@ -90,6 +90,8 @@ Content Operations influence and, in turn, are dependent on content management. 
 
 Let's be honest: Were you aware of how crucial the role of a consultant is for a content strategist? If not, you're like so many who are just venturing into the field of content strategy. And if this article did not reveal anything new for you, you are either an experienced content strategist, a lecturer at the FH Joanneum Graz or simply a genius. In this case, however, it is certainly never wrong to recall the content of this article from time to time.
 
+
+## Where to go from here
 
 ## Recommended reading
 
