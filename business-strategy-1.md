@@ -2,6 +2,22 @@
 
 5 November 2020
 
+<!-- Todos
+
+Style: We are not talking to absolute beginners, voice and tone must be appropriate. Meaning: Professional, warm, and related to academic research, a bit like good, fact based science journalism.
+
+References: We cannot justify every statement in an article like this one, but we need references for the most important ones. :
+
+- hypertransparency
+- motifs, output, procedure,
+- smart goals
+
+Relevances: Why and how is this relevant for content strategy? 
+
+
+
+-->
+
 ## Course
 ## Topics
 ## Teachers
@@ -13,17 +29,19 @@ Dieter Rappold explained at the beginning of his course [Business Strategy for D
 
 ## Relevance
 
-Content strategy and business strategy are mutually dependent. Content strategies support business strategies, business in the digital space requires a strategic approach to all facets of content. To understand the operating space of their discipline content strategists need to understand what business strategy means today. Dieter Rappold explained it with the perspective of a reflecting digital entrepreneur.
+Content strategy and business strategy are mutually dependent. Content strategies support business strategies, business in the digital space requires a strategic approach to all facets of content. To understand the operating space of their discipline content strategists need to understand what business strategy means today. Dieter Rappold explained it from the perspective of a digital entrepreneur.
 
 ---
 
 ## Description
 
-Let’s talk about business. Have you ever asked yourself “Why the hack are they so damn successful?!” Here’s the answer: Cause they got a great strategy - and are even better at executing. Oh, wait, let me just add this by the way: Strategy is dead. But without a strategy no business will be successful. Okay, before you get even more confused let’s get started!
+
+Business strategy in the digital world is a paradoxical phenomenon. On the one hand, almost all successful digital companies have a defined, recognizable and excellently implemented strategy, i.e., they do not just work reactively and tactically. On the other hand, the digital business reality is so complex and so changeable that companies with traditional strategic approaches regularly fail in it. What does *strategy* mean under these conditions and how can a strategy be defined?
+
 
 ### What is a strategy?
 
-To answer this question, set your clock back. Back to the old greek. Because this is where the word “strategy” finds its origin. In warfare, where your goal was to survive. It means “the art to lead an army” beause this was the way to reach that goal. Somehow it is still slightly the same: “Strategy is the planned sustainable behavior of an organization to reach its goals.” Okay, let’s take this step by step.
+Even those who deal with strategy in the digital world use an ancient term and think in the footsteps of the ancient Greeks. We still use the word in a very similar sense. Strategy was used in warfare, where your goal was to survive. It means “the art to lead an army” beause this was the way to reach that goal. Somehow it is still slightly the same: “Strategy is the planned sustainable behavior of an organization to reach its goals.” Okay, let’s take this step by step.
 
 The key formula is: Strategy = goal + path.
 

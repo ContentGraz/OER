@@ -1,5 +1,18 @@
 
-# Three building blocks of a brand driven content strategy:  Message architecture - content audit - content types
+# Three steps to develop a brand driven content strategy:  Message architecture - content audit - content types
+
+
+<!-- Todos:
+
+
+- Tone: No marketing style - it would be understood as self promotion.
+- Content: The focus of the article must be clear. The article is not about Margot Bloomstein's approach in general, also not about her course as a whole. In this case the briefing from my side was obviously not clear enough. The focusl can be about the implementation of a brand driven content strategy, that means: not about the motivation but the practical steps in order to realize such a strategy.
+- Cohesion: We should use terms coherently even if our teachers don't. In this case *content model* should be used like it is used by Deane Barker. 
+
+
+
+
+-->
 
 ## course
 
@@ -12,11 +25,11 @@
 
 A brand-driven content strategy helps an organization to figure out and to convey its values and differentiators. It shapes the path for all future content decisions.
 
-Boston-based content strategist Margot Bloomstein has developed, practiced and taught *brand driven content strategy* over a long period of time. In this lecture she presented and discussed the basics of her approach with a lot of  examples from her own practice.
+Boston-based content strategist Margot Bloomstein has developed, practiced and taught *brand driven content strategy* over a long period of time. In this lecture Margot Bloomstein presented and discussed the basics of her approach with a lot of  examples from her own practice.
 
 ## Relevance
 
-Towards the end of the 90ies user orientation became an important motto in web development and web design (although not necessarily in the practice of companies). User orientation is often proclaimed as the most important guideline in content strategy. But if an organization is communicating only to meet user needs its business value may become unrecognizeable and its brand generic. The course “Brand Values & Message Architecture” focuses on the role and the needs of brands and on ways to solve brand related challenges through content strategy.
+Towards the end of the 90ies user orientation became an important motto in web development and web design (although not necessarily in the practice of companies). User orientation is often proclaimed as the most important guideline in content strategy. But if an organization is communicating only to meet user needs its business value may become unrecognizeable and its brand generic. The course “Brand Values & Message Architecture” focuses on the role and the needs of brands and on ways to solve brand related challenges through content strategy. This lecture describes the procedure for implementing such a strategy at an introductory level
 
 
 
@@ -62,11 +75,11 @@ As an example Margot Bloomstein showed the message architecture of a medical lab
 
 #### Message architecture in practice
 
-Margot Bloomstein showcased many real-life examples of how message architecture works in practice. She sparked up a discussion by asking which of these drinks contain the most caffeine:
+Margot Bloomstein showcased many real-life cases of how message architecture works in practice. One striking example: She sparked up a discussion by asking which of these drinks contain the most caffeine:
 
 None of the students in class would have guessed the correct answer: **Starbucks coffee**. Why? Bloomstein explains that the messaging shapes the character of a brand and how it is perceived. While Starbucks speaks more to professionals in suits, Red Bull focuses on the athlete type of consumer. The latter makes you believe that the drink gives you more energy, although that is in fact not true.
 
-#### How to define a message architecture: introduction to the card sorting exercise
+#### How to define a message architecture: card sorting as a method
 
 Margot Bloomstein's preferred tool for developing a message architecture is a sorting exercise with a a stack of brand cards. The stack consists of cards with around 100 possible brand attributes. Each attribute is printed on one card. The participants assign the cards to 3 different columns:
 
@@ -74,15 +87,15 @@ Margot Bloomstein's preferred tool for developing a message architecture is a so
 * Who we are
 * Who we’d like to be
 
-The participants are free to add attributes which they miss. When all cards have been assigned to one of the columns, the pile of cards in the *who-we-are-not*-column gets tossed away. In a second round the participants try to discover the 3 or so most important attributes of their organization together with some accompanying or specifying secondary attributes. They have to decide what values (attributes) they want to leave behind &ndash; in most cases a difficult decision. But it is crucial to arrive at a small number of specific messages &ndash; otherwise it is impossible to use the messages for deciding what to communicate and what not. The identity of the organization would not be sufficiently defined. All attributes that the participants want to keep go into the pile of *who we’d like to be*. In the last step, the participants have to group similar attributes in word clouds and prioritize the attributes within each clouds. The result is a hierarchy of attributes which represent an organization's communication goals.
+The participants are free to add attributes which they miss. When all cards have been assigned to one of the columns, the pile of cards in the *who-we-are-not*-column gets tossed away. In a second round the participants try to discover the 3 or so most important attributes of their organization together with some accompanying or specifying secondary attributes. They have to decide what values (attributes) they want to leave behind &ndash; in most cases a difficult decision. But it is crucial to arrive at a small number of specific messages &ndash; otherwise it is impossible to use the messages for deciding what to communicate and what not. The identity of the organization would not be sufficiently defined. All attributes that the participants want to keep go into the pile of *who we’d like to be*. In the last step, the participants have to group similar attributes in word clouds and prioritize the attributes within each cloud. The result is a hierarchy of attributes which represent an organization's communication goals.
 
 <aside>
 **Annotation** Card sorting is also used in information architecture e.g. for defining navigation menus for a website.
 </aside>
 
-The physical interaction with the cards puts a special weight on the selected terms. It also encourages a conversation around topics and concepts. During the whole process, the content strategist is acting in the role of a consultant and facilitator. She/he steps back to show the group that it is their task and responsibility to do the work. In the end, the deliverables are merely the result of the work of the client.  
+The physical interaction with the cards makes the meaning of the selected terms perceptible to the senses. The shared space encourages a conversation around topics and concepts. During the whole process, the content strategist sticks to the role of a consultant and facilitator. She/he steps back to show the group members that it is their task and responsibility to decide on the messages. In the end, the deliverables can be fully attributed to the client.  
 
-#### What is a content audit?
+### Qualitative Content Audits
 
 The message architecture is also the foundation for a qualitative content audit. What content do we already have and is it any good? Does it align with the message architecture and the communication goals?
 
@@ -105,17 +118,17 @@ Doing the content audit means also to deal with constraints. In most cases, the 
 A content audit is one of the key deliveries to the client. It is essential for defining the key elements of a content strategy. Without a qualitative audit, all subsequent recommendations for content will dangle in the air.
 
 
-#### Finding appropriate channels and content types: a crucial step
+### Finding appropriate channels and content types
 
 Based on the content audit it is possible to recommend appropriate content types.  
 
 #### What is a content type?
 
-In his online glossary for web content management[^barker] [Deane Barker](https://flyingsquirrelbook.com/author/) defines a content type as follows: “The specification of a logical type of content–for example, a News Article or a Blog Post.” A content type can be seen as declaration of a specific piece of content that defines requirements and possibilities. Content types belong to channels: A blog post can belong to the channel *web site* or LinkedIn, a howto post can be part of a company's YouTube channel. Many business owners, CEO’s or even marketers are tempted to think that it it is enough to specify appropriate content as e.g. *video*. But only a video of a specific type in a specific channel will be appropriate for the message and and achieve its purpose. It is crucial to select content types which support the message architecture.
+In his online glossary for web content management[^barker] [Deane Barker](https://flyingsquirrelbook.com/author/) defines a content type as follows: “The specification of a logical type of content–for example, a News Article or a Blog Post.” A content type can be seen as declaration of a specific piece of content that defines requirements and possibilities. Content types belong to channels: A blog post can belong to the channel *web site* or LinkedIn, a howto post can be part of a company's YouTube channel. Many business owners, CEO’s or even marketers are tempted to think that it is sufficient to specify appropriate content as e.g. *video*. But only a video of a specific type in a specific channel will be appropriate for the message and achieve its purpose. It is crucial to select content types which support the message architecture.
 
 #### How to recommend appropriate content types
 
-After having conducted the audit the content strategist can recommend content types and channels that fit the needs of the client. The selected content types represent the communication goals of the business, organization or company. Examples show how closely content types and communication goals are connected: If the communication goal is to be perceived as engaged and fun, is an annual report the right channel? Or are a blog, games and videos more appropriate? In other words, the chosen content types and channels will manifest the communication goals that have been defined in the message architecture.
+After having conducted the audit the content strategist can recommend content types and channels that fit the needs of the client. The selected content types represent the communication goals of the business, organization or company. Examples show how closely channels, content types and communication goals are connected: If the communication goal is to be perceived as engaged and fun, is an annual report the right channel? Or are a blog, games and videos more appropriate? In other words, the chosen content types and channels will manifest the communication goals that have been defined in the message architecture.
 
 #### Finding content types: A practical exercise
 
@@ -136,15 +149,6 @@ Here is an excerpt from the ideas that the students presented (with a special th
 
 Before the exercise we fear a kind of Hunger Games: Will there be enough different content types and channels for everyone in the group?  When speaking of content types, one first thinks of media types like video, images and long copy. But content types can be found in every corner. CoSchedule, a marketing organization software, published [113 content type ideas](https://coschedule.com/blog/types-of-content/). Formats like quotes or references are often not even perceived as content types, but they have specific formal characteristics on which their efficiency depends. (The credibility of a content collection may depend on the correctness and the sources of quotes.) Furthermore this list shows clearly that suitable content types can also be found for smaller budgets. The necessary resources have to be considered by the content strategist when recommending content types to the client. In the process of aligning the content types with the message architecture internal resources like budget or personnel can get shifted and reallocated.
 
-According to Bloomstein many (content) challenges can be met by a correct execution of the 3 steps: creating a message architecture, conducting an audit and recommending appropriate content types and channels. Deeper insights on Content modeling and editorial guidelines will be taught in specific lectures throughout the master degree of Content Strategy at FH Joanneum Graz.  
-
-> It has been really valuable that Margot shared her industry knowledge and helped us to apply them to our projects. I have already seen the positive results of her lectures in my professional life.
-
-– Omer Sarica, COS20-Student
-
-> The Brand Values class provided me with a very practical approach to creating brand-driven content strategies. Starting with the messaging architecture creation exercise, the content audit and the final assignment (which brought everything together), this class equipped me with a solid foundation. The class prompted students to think about problem solving for business goals and user needs through the lens of communication goals and story-telling, using a logical step-by-step approach. Additionally, I particularly liked the instructor’s proactive approach to encouraging student participation. It sparked some very interesting discussions around the topic.
-
-– Azza El Arabi, COS20-Student
 
 ## Where to go from here?
 
@@ -158,7 +162,7 @@ COS students have written about Margot's teaching in blogposts and portfolios. O
 
 In the German-language content strategy community, our instructor Doris Eichmeier explores the relationships of brand communication and content strategy. In the book [Die Content-Revolution im Unternehmen](https://shop.haufe.de/prod/die-content-revolution "Die Content-Revolution im Unternehmen: Buch & eBook von Klaus Eck / Doris Eichmeier | Haufe Shop")[^eichmeier], she presents a brand-focused content audit she developed.
 
-Some examples of the development of brand-oriented content strategies can be found by browsing through the [COs-Master's Theses](https://epub.fh-joanneum.at/nav/classification/1959332 "FH Joanneum (FHJ) / Institut Journalismus und Public Relations. Course of studies Content Strategy / Content Strategy (Master) [1-20]")
+Some examples of the development of brand-oriented content strategies can be found by browsing through the [COS-Master's Theses](https://epub.fh-joanneum.at/nav/classification/1959332 "FH Joanneum (FHJ) / Institut Journalismus und Public Relations. Course of studies Content Strategy / Content Strategy (Master) [1-20]")
 
 ## References
 
