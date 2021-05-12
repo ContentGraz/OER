@@ -6,11 +6,49 @@
 
 ## Teaser
 
+Why should content strategists know anything about HTML CSS and Javascript? At the beginning of his course on frontend technologies Heinz wittenbrink justified why we should learn about angle brackets and alt attributes. The discussion is still ongoing.
+
 ## Relevance
+
+The web is one of the most important channels for digital content. At the same time, however, it is a platform for its own types of content, because linked information that can also be further linked at will only exists on the Web. In order to understand this special role of the Web for content, one must understand its special properties as a digital platform and thus above all the design of HTML, the language for Web content and Web applications. Without this knowledge, one cannot judge whether one's own content actually exploits the possibilities of the web and will optimally reach current and future users.
 
 ## Description
 
-Heinz Wittenbrink suggests in his lecture to get to grips with the basics of coding - content people need to understand how programming works at its core.
+To get to grips with the basics of coding does not necessarily mean to become a programmer. It means to know about the technical formats of content which make it possible to transmit, to transform and to present it digitally. It makes it possible to make sure
+- that the content can be optimally processed and
+- that the processing corresponds to the semantics of the content (that is the more important part).
+
+HTML allows a description of content for processing by machines and in particular for processing for the universal hyper mediuim *world wide web*. If this description does not truly match the content, then the processing falls short. Therefore, in order to know if the description is adequate to the content, a person responsible for the content must understand its characteristics to the extent that one can judge if it is adequate.
+
+Two examples: visual design of content and search engine optimization
+
+### Visual design
+
+A good visual design corresponds to the properties of the content. On the web, cascading style sheets are used for visual design. Cascading style sheets connect the markup styles. For example, headings are displayed in bold, and important headings are displayed in a larger font than smaller headings. This presentation only works if the headings are actually marked up as headings in the HTML. Only someone who is responsible for the content can judge whether the correct text is marked as a heading. If he can't make this judgement with the source code, then the content is bound to a certain content management system or maybe even only to a very specific technique to process it, it can't be used independently.
+
+
+
+### Search engine optimization
+
+Search engine optimization basically means describing content in such a way that it can be easily found by search engines. This is also done by using HTML to describe the content. The search engine recognizes, for example, what the title of a document is or what the particularly important headings are. Again, without knowledge of this markup, it is not possible to track whether the search engine is actually using the correct parts of the text. Even lesser known HTML tags such as those for metadata are relevant to search engines.
+
+Being able to produce semantic HTML means something similar to being able to prepare a manuscript well for printing. It ensures that the processing corresponds to the content.
+
+
+## HTML Knowledge, Content Management and the Role of Content Strategists
+
+One could argue that there are enough means to mark up HTML using various graphical tools and that the producers of these tools should be responsible for the correct markup. On the one hand, this idea is unrealistic, because in practice, relatively bad HTML is produced in many cases. On the other hand, this concept misses the role of content strategy. Content strategists are not the producers of content but the people responsible for a content oriented approach to content management, and this management must always deal with the content as a technical artifact, otherwise it couldn't be managed at all. Both content structuring and content-related workflows depend on the technical formats of the content. If content strategists is uninformed about the technical properties of content, they cannot assess workflows related to content, the independence of content from specific presentation formats, its usability on different or future platforms and the adequacy of any editorial tools to content structure. They are therefore not in a position to control the management of content from the point of view of the content, which is actually the most important. In practice, this leads to technicians or  controllers and business people taking over these functions, and then content inevitably does not play the first role in the design of the life cycle of online content.
+
+## Platform knowledge and the productive development of content
+
+A third aspect, perhaps the most important for content strategy, is related to the Web as a platform&mdash;in a double sense:
+-to the Web as an open free platform based on Web technologies on the one hand - to the Web in the common understanding as a platform for all digital content on the other hand.
+
+Content on the Web, as with all older technologies, is closely related to the technical format in which it lives and is consumed in real-world situations. Just as the material properties of books and magazines have consequences for the design of content, e.g. for its linear character and its subdivision into sections and chapters, the material (or maybe better: immaterial) properties of the web also have consequences for the design of content, e.g. for navigation, for its fitness for different mobile platforms and for the contents interaction with technical functions, e.g. in an online store. Much more than in traditional media, whose techniques have often hardly evolved over centuries, digital platforms are developing extremely fast and depending on hard and software factors. All digital content formats that have become current in recent years, from blogs to live video, were developed by technicians. Only if you have an understanding of these technical developments and their particular dynamics you can participate in their design or simply select the techniques that are important for a particular service or product.
+
+On the Web in the strict (the web as defined by the World Wide Web Consortium) it is characteristic that content is in special measure user-friendly, because content can be freely reused and linked to independently from proprietary platforms and technologies. But just to understand  this openness and the restrictions&mdash;and sometimes also the advantages&mdash;of propretary silos you have to know the technical platform of the web. Who does not know how a link works on the web, can also not judge whether a tweet or a Facebook post is really the adequate form to publish a specific content, whether it would e.g. be better derived from a blogpost and republished on social media platforms. If you don't know that there is a difference between open web technologies and the proprietary technologies used e.g. for mobile apps on IOS and Android, you cannot judge whether content is better published primarily on the web or prepared for apps, or whether it makes sense to design it independently from both platforms. In other words: As a creative content developer, you need to understand the interdependencies between the content and the different technologies.
+
+
 
 
 Black screens on which many small white, green, yellow or red characters flicker. Numbers, angle brackets, commas are displayed. For many, it is a big question mark what exactly programmers and software developers have in front of them when they are writing code. Most of the time it is shyness or perplexity that prevents one from asking more questions. Or one acts according to the motto: Don't saddle yourself with something you don't know what to do with anyway.
