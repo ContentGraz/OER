@@ -70,18 +70,34 @@ The [Product/Market Fit](https://web.stanford.edu/class/ee204/ProductMarketFit.h
 
 *   It is unclear what to track, when, and how
 *   Lack of focus on product-market fit
+ 
+There is no magic formula for finding the perfect product / market fit. But there are some steps we can give you along to increase your companies success.
+ 
+*	Target the right market
+For your product it is important to have enough customers or users, which will spend money on it. Also, your potential users should grow and with that, the sale will rise.
+*	Adapt and pivot when necessary
+Until you achieve the product / market fit, it is necessary to build on your product as well on your company (for example on your employees, culture, customers etc.)
+*	Teamwork
+To find and achieve the product / market fit is a teamwork goal. Everyone in your team should be involved in the process.
+*	Ask your targets
+Research is important in every step of the product life cycle, but the most important when you enter the market with a new one. Ask your targets (not only your customers – think about all stakeholders in your company) what they think about it before you take their money. It is also a good way to establish a relationship with potential clients.
+
+Quelle: https://www.propellercrm.com/blog/product-market-fit-pmf
+
 
 ### Find your personal North Star Metric (NSM)
 
 ![North Star png](pics/NorthStar.png)
 
-Whatever you are doing - you need a metric which gives you an orientation for all of your business, often called a [North Star Metric](https://growwithward.com/north-star-metric/ "What is your North Star Metric? + 8 steps to find your NSM immediately. 2019, November 4. Ward van Gasteren")[^van_gasteren]. It measure's your overall company success. Just as the North Star is needed to align the entire coordinate system of the sky, the North Star metric provides a reference point for all other metrics, and thus for all of an organization's actions.
+Whatever you are doing - you need a metric which gives you an orientation for all of your business, often called a [North Star Metric](https://growwithward.com/north-star-metric/ "What is your North Star Metric? + 8 steps to find your NSM immediately. 2019, November 4. Ward van Gasteren")[^van_gasteren]. It measure's your overall company success and is also essential to reach the maximum business growth potential. Just as the North Star is needed to align the entire coordinate system of the sky, the North Star metric provides a reference point for all other metrics, and thus for all of an organization's actions. Using the NSM Metric means finding the one metric that matters and your one metric that best captures the core value of the product and it also reflects your PMF. 
+
+
 
 Using the NSM Metric means finding the one metric that matters and your one metric that best captures the core value of the product and it also reflects your PMF. The NSM will often be an amalgam of several metrics. Since it should measures the overall quality of your endeavour it will be an output metric.
 
-A North Star Metric is essential if a company wants to reach its maximum growth potential. To grow in long term, a company will need to develop a long-term growth strategy and for that, the ‘North Star Metric’ should be in this stratgy's center.
+A North Star Metric is essential if a company wants to reach its maximum growth potential. To grow in long term, a company will need to develop a long-term growth strategy and for that, the ‘North Star Metric’ should be at the center of the growth strategy.
 
-When defining your NSM the company needs to be aware that “revenue” is a bad choice. Revenue is what the customer pays in return for the product. To measure the sustainability of your project a north star metric is focused on the value the product brings to people. Having revenue as an NSM means the company doesn’t have a clear long-term strategy.
+When defining your NSM the company needs to be aware that “revenue” is a bad choice. Revenue is what the customer pays in return for the product, whereas a north star metric is a value the product brings to people.  To measure the sustainability of your project a north star metric is focused on the value the product brings to people.  Also having revenue as an NSM is misleading because it means the company doesn’t have a clear long-term strategy.
 
 The key reason, why a Company should have a North Star Metric or in other words the **pros:**
 
