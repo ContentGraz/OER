@@ -58,6 +58,7 @@ For companies that rely on metrics, it is necessary that they ask themselves one
 
 The [Product/Market Fit](https://web.stanford.edu/class/ee204/ProductMarketFit.html "EE204 Business Management for Engineers and Computer Scientists")[^andreesen] (PMF) is no metric but it should guide a start-up's analytics efforts as soon as product specific information from the market can be gathered. The Product/market fit is the degree to which a product satisfies strong market demand. Measuring the Product/market fit is the first step for a company to gather feedback from the market and to evaluate the customers' interest in a specific products. The Product-Market Fit can be considered as one of the main orientation points of a start-up's successful work.
 
+
 ![PMF](pics/PMF.png)
 
 **To focus on the PMF metric helps us in:**
@@ -115,6 +116,7 @@ The [AARRR](https://medium.com/@ms.mbalke/aarrr-framework-metrics-that-let-your-
 The first A stands for the *Acquisition* metrics and shows where the customers are coming from and where there is enough space for the company to grow. The CAC – Customer Acquisition Cost – shows the costs of convincing a potential customer to buy a product. This can be organic or paid. To explain this, an example follows: When you go into a shop in town and buy something, this purchase is an organic acquisition for the shop. However, if you have been targeted by a flyer or other advertising, then it is a paid acquisition. A well known acquisition metric is *conversion rate* (CR): the percentage of visitors who perform a certain desired action.
 
 The next A stands for Activation and is related to the client's personal first experience with the product. It depends on how customers feel about a product and the company behind it before they consume or use the product. At this stage metrics indicate the value of your product and how willing customers are to use and ultimately pay for it.
+ 
 
 A well known activation metric is CAC – *Customer Acquisition Cost*. CAC shows the costs of convincing a potential customer to buy a product. This can be organic or paid. The difference can be explained by an example: When you go into a shop in town and buy something, this purchase is an organic acquisition for the shop. However, if you have been targeted by a flyer or other advertising, then it is a paid acquisition.
 
@@ -124,9 +126,10 @@ Let’s move on to the R which stands for *Retention*: It indicates the quality 
 * WAU = weekly active users
 * MAU = monthly active users
 
-In digital sales, these figures are particularly important. Various marketing campaigns try to push the numbers up and to boost sales. Good retention metrics inform about the quality of growth, eg about the percentage of daily users who become monthly unsers.
+In digital sales, these figures are particularly important. Various marketing campaigns try to push the numbers up and to boost sales. This is exactly why you as a customer always receive advertising and newsletters from various companies.
+  Good retention metrics inform about the quality of growth, eg about the percentage of daily users who become monthly unsers.
 
-The second R stands for *Referral Metrics* and expresses the willingness of customers to recommend a product to their peers. These metrics depend on definitions of e.g. customer loyality. Loyal customers, who always buy from the same company, the same brand, and/or the same product, are one of the most important assets for a company. Power users, brand lovers and super followers are especially loyal customers. To find out which value is decisive for them is important to estimate the Product Market Fit.
+The second R stands for *Referral Metrics* and expresses the willingness of customers to recommend a product to their peers in figures. These metrics depend on definitions of e.g. customer loyality. Loyal customers, who always buy from the same company, the same brand, and/or the same product, are one of the most important assets for a company. Power users, brand lovers and super followers are especially loyal customers. To find out which value is decisive for them is important to estimate the Product Market Fit.
 
 *Revenue Metrics* show last but not least how to increase revenue and how the company can push up sales figures and profits respectively. An important metric in this section of the funnel ist the *Customer Lifetime Value* (CLTV). The CLTV shows the net profit from one customer over the whole span of time he or she is in a connection with a company. If you are one of the brand lovers or super followers of a company, then you will be treated accordingly and can enjoy some goodies. However, if you're more like a casual shopper, then you're not going to get the benefits. For this reason, loyal customers are always more important to companies than new customers. Finding new customers is easier than finding loyal ones - similar to friendships!
 
