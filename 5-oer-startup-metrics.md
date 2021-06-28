@@ -29,6 +29,9 @@ Dieter Rappold
 
 To define your organisation’s success, you need to define the metrics you will be using. A metric gives meaning to measurement, and to find the right metrics you need to know what supports your company best. There is no one-size-fits-all-solution: Which metrics you chose depends on what business you support, and, speaking of content, which business problem you want to solve via content. Many successful organizations have developed their own, highly specific metrics. A lot of them are open and can be analyzed and compared via services like [Baremetrics](https://baremetrics.com/ "Baremetrics: Subscription Analytics & Insights for Stripe, Braintree, Recurly & more!").
 
+
+
+
 > “A data-based decision-making culture is the single most important competitive edge of start-ups against incumbents. But most startups are in love with their product and rather work on a “Product founder fit “ than a “Product-market fit"."
 
 – Dieter Rappold, Founder, and CEO of Speedinvest Pirates
@@ -39,7 +42,8 @@ There are different main types of metrics. Often they are classified by the cate
 *   Quantity
 *   Efficiency
 
-Proven metrics for start-ups, which can be used for a customized metrics strategy, are:
+
+For start-ups, i.e. those companies that are just entering the market and thus generating real profit for the first time, there are a few "special" metrics. Of course, these indicators do not only apply to start-ups but they are best suited for this type of company. 
 
 1.  [Customer Acquisition Cost](https://neilpatel.com/blog/customer-acquisition-cost/ "Customer Acquisition Cost: The One Metric That Can Determine Your Company’s Fate")[^patel2021] (CAC)
 2.  [Retention](https://blog.hubspot.com/service/customer-retention-metrics "10 Customer Retention Metrics & How to Measure Them")[^smith]
@@ -48,7 +52,7 @@ Proven metrics for start-ups, which can be used for a customized metrics strateg
 5.  [Product Metabolism](https://venturefizz.com/stories/boston/why-product-metabolism-every-startup-s-first-kpi "Why Product Metabolism Is Every Startup’s First KPI | VentureFizz")[^dolginow]
 6.  [Viral coefficient](https://andrewchen.co/viral-coefficient-what-it-does-and-does-not-measure/ "Viral coefficient: What it does and does NOT measure at andrewchen")[^chen]
 
-The key question is: **When to apply which metrics?** To answer this question, it is crucial to differentiate between the different metrics, like input and output metrics. Output metrics reflect the results, and input metrics indicate actions. Above all, before you start you should base your decision on your data.
+For companies that rely on metrics, it is necessary that they ask themselves one important question in advance:: **When to apply which metrics?** To answer this question, it is crucial to differentiate between the different metrics, like input and output metrics. Output metrics reflect the results, and input metrics indicate actions. Above all, before you start you should base your decision on the data you get from your company.
 
 ### What to achieve by Metrics? Product Market Fit (PMF) as a condition for Sustainable Growth
 
