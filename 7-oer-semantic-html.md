@@ -1,10 +1,41 @@
 # HTML for Content Strategists: Why it is important to communicate with programmers at eye level
 
+
+
+
+
+description	Lecture	required	non-repeatable	textual description of the content of the lecture or an idealised lecture	
+
+media	Illustration	optional	repeatable	videos, animations, pictures and infographics	must contain a descriptive caption
+
+title-picture	Title picture	required	non repeatable	pictures and infographics	must contain a descriptive caption
+
+infobox	Infobox	optional	repeatable	tabular information	should contain a caption
+
+presentation	Slides	optional	non-repeatable	slides from the lecture provided by the teacher	
+
+quote	Quote	optional	repeatable	Quotes from the lecture	
+
+Q&A	Questions and Answers	optional	non-repeatable	(real or fictitious) questions and answers concerning the content of the lecture	
+
+
+Reference	reference	required	repeatable	bibliographic references	Must follow the program guidelines, linked to the Zotero database
+
+Caveat	Caveat	required	non-repeatable	Information about authorization, dates of the lecture etc.	choice of standard phrases
+
 ## Course
+
+Digital Publishing Platforms
 
 ## Topics
 
-## Teaser
+Web Standards, HTML
+
+## Teacher(s)
+
+Heinz Wittenbrink
+
+## Summary
 
 Why should content strategists know anything about HTML CSS and Javascript? At the beginning of his course on frontend technologies Heinz wittenbrink justified why we should learn about angle brackets and alt attributes. The discussion is still ongoing.
 
@@ -82,10 +113,11 @@ German-language sources for self-study of the code also exist. The aim of [selfh
 
 <span class="c4">And when you're through with the instructions? Then hopefully the following sentence by Wittenbrink applies: "You have to be able to understand the core of HTML”.Then, he says, it is "no witchcraft" to control what may be the responsibility of other members of an organisation or company - to handle the technical stuff in the background. Because, as is often the case, you can't become an expert in everything. But a little control is always helpful and being able to have a say doesn't hurt anyway.</span>
 
+## Slides
+
+[HTML for content authors](https://heinzwittenbrink.github.io/slides-intro2html/#/developer-tools "HTML for content authors")
 
 ## Where to go from here?
-
-## Recommended Reading
 
 [https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML](https://www.google.com/url?q=https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML&sa=D&source=editors&ust=1613728613127000&usg=AOvVaw1nbejDD5wQ-K5zYd52_YkR)
 
@@ -96,3 +128,8 @@ German-language sources for self-study of the code also exist. The aim of [selfh
 [https://html.spec.whatwg.org/](https://www.google.com/url?q=https://html.spec.whatwg.org/&sa=D&source=editors&ust=1613728613128000&usg=AOvVaw1Uv-3SJpVzOoanOvETel_E)
 
 ## References
+
+Caveat
+
+
+
